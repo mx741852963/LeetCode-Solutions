@@ -1,5 +1,3 @@
-import sys
-input = sys.stdin.read
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         cur_sum = sum(nums[:k])
