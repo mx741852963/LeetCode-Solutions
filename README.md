@@ -22,6 +22,7 @@ My journey of problem-solving is documented in this repository.
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
