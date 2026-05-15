@@ -15,12 +15,14 @@ class Solution:
                 merged.append(word2[j])
                 j += 1
                 word_flag = 1
-        while i < word_one_len:
-            merged.append(word1[i])
+        if i < word_one_len:
+            merged.append(word1[i:])
             i += 1
-        while j < word_two_len:
-            merged.append(word2[j])
+        if j < word_two_len:
+            merged.append(word2[j:])
             j += 1
+
+        return ''.join(merged)  # Time : O(word1+word2) , Space : O(word1+word2)
 
         return ''.join(merged) # Time : O(word1+word2) , Space : O(word1+word2) 
             
