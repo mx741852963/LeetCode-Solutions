@@ -4,12 +4,13 @@ class Solution:
         n = len(nums)
         for i in range(k):
             left += nums[i]
-        max_avg = left / k
+        max_avg = left 
         for i in range(k, n):
-            left += nums[i]
-            left -= nums[i - k]
-            avg = left / k
+            left += nums[i] - nums[i - k]
+            avg = left 
             max_avg = max(max_avg, avg)
-        return max_avg
+        return max_avg /k
+
+
 # Time : O(n)
 # Space : O(1)
