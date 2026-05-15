@@ -12,4 +12,6 @@ class Solution:
                 summ += dictt[s[i]]
                 i += 1
         return summ
+# Time O(n)
+# Space O(1)
                           
