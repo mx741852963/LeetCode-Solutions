@@ -25,6 +25,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0056-merge-intervals](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0228-summary-ranges](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
@@ -41,6 +42,7 @@ My journey of problem-solving is documented in this repository.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
