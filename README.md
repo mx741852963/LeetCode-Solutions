@@ -27,6 +27,7 @@ My journey of problem-solving is documented in this repository.
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0228-summary-ranges](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
