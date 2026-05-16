@@ -11,3 +11,5 @@ class Solution:
             r *= nums[j]
             l *= nums[i]
         return [l * r for l, r in zip(l_arr, r_arr)]
+# Time : O(n)
+# Space : O(n)    
