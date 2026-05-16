@@ -8,6 +8,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@ My journey of problem-solving is documented in this repository.
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
