@@ -6,6 +6,7 @@ My journey of problem-solving is documented in this repository.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -31,6 +32,7 @@ My journey of problem-solving is documented in this repository.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
