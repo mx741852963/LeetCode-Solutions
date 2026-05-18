@@ -9,5 +9,5 @@ class Solution:
                 break
             if (numbers[i] + numbers[j]) > target:
                 j -= 1
-            elif (numbers[i] + numbers[j]) < target:
+            else:
                 i += 1
