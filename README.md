@@ -9,6 +9,7 @@ My journey of problem-solving is documented in this repository.
 | [0001-two-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -36,6 +37,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -105,6 +107,7 @@ My journey of problem-solving is documented in this repository.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
