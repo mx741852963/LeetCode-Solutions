@@ -4,8 +4,8 @@ class Solution:
         import math
         return math.comb((m-1)+(n-1),n-1)
         # Recursive Solution
-        # Time O(2^(n*m))
-        # Space = O(n*m)
+        # Time O(2^(n+m))
+        # Space = O(n+m)
         # def paths(i,j):
         #     if i == j== 0:
         #         return 1
