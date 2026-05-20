@@ -24,6 +24,7 @@ My journey of problem-solving is documented in this repository.
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -57,6 +58,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
