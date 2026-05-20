@@ -15,6 +15,8 @@ class Solution:
                 max_right_side = max(max_right_side, height[right_side])
                 count += max_right_side - height[right_side]
         return count
+        # Time O(n)
+        # Space O(1)
 
         # left_wall = right_wall = 0
         # lenn = len(height)
