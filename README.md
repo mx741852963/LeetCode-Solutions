@@ -41,6 +41,7 @@ My journey of problem-solving is documented in this repository.
 | [0001-two-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -57,6 +58,7 @@ My journey of problem-solving is documented in this repository.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -88,6 +90,7 @@ My journey of problem-solving is documented in this repository.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -131,4 +134,12 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
