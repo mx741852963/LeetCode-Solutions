@@ -13,7 +13,8 @@ class Solution:
             pot = min(max_left[i],max_right[i])
             summ += max(0,pot-height[i])
         return summ 
-
+        # Time O(n)
+        # Space O(n)
         # maxx = max(height)
         # count = 0
         # for m in range(0, maxx):
