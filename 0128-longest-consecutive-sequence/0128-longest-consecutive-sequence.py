@@ -11,3 +11,5 @@ class Solution:
                     next_num += 1
                 maxx = max(maxx, count)
         return maxx
+# Time O(n)
+# Space O(n)
