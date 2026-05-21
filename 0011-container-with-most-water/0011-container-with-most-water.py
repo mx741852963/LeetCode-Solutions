@@ -9,16 +9,13 @@ class Solution:
         while left < right:
             l = height[left]
             r = height[right]
-            size = min(r,l) * (lenn - 1)
+            size = min(r,l) * (right - left)
             max_area = max(max_area,size)
             if l < r :
                 left += 1
-                lenn -=1
-            if l > r :
+            elif l > r :
                 right -= 1
-                lenn -=1
-            if l == r:
+            else :
                 left += 1
-                # right -= 1
-                lenn -= 1
+                right -= 1
         return max_area
