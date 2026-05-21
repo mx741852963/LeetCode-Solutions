@@ -16,9 +16,6 @@ class Solution:
                 return max_area
             if l < r :
                 left += 1
-            elif l > r :
-                right -= 1
             else :
-                left += 1
                 right -= 1
         return max_area
