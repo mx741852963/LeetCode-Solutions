@@ -3,9 +3,9 @@ class Solution:
         counts = Counter(nums)
         unique = sorted(counts.keys())
         result = []
-        # if counts[0] >= 3:
-        #     if [0,0,0] not in result:
-        #         result.append([0, 0, 0])
+        if counts[0] >= 3:
+            result.append([0, 0, 0])
+            del counts[0]
         for i, num1 in enumerate(unique):
             for num2 in unique[i:]:
                 if num1 == num2 and counts[num1] < 2:
