@@ -5,8 +5,6 @@ class Solution:
         right = lenn - 1
         max_area = 0
         max_height=max(height)
-        if not height:
-            return 0
         while left < right:
             l = height[left]
             r = height[right]
