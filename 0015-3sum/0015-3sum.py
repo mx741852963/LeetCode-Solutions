@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         counts = Counter(nums)
@@ -5,7 +6,7 @@ class Solution:
         result = []
         if counts[0] >= 3:
             result.append([0, 0, 0])
-            del counts[0]
+        del counts[0] 
         for i, num1 in enumerate(unique):
             for num2 in unique[i:]:
                 if num1 == num2 and counts[num1] < 2:
@@ -14,9 +15,10 @@ class Solution:
                 if num3 < num2: 
                     continue
                 if num3 in counts:
-                    if num3 == num2 and (num1 == num2 and counts[num1] < 3 or num1 != num2 and counts[num2] < 2):
+                    if num2 == num3 and counts[num2] < 2:
                         continue
                     result.append([num1, num2, num3])
+
         return result
 #         nums.sort()
 #         lenn = len(nums)
