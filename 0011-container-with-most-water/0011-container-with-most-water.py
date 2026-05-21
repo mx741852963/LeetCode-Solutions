@@ -4,6 +4,7 @@ class Solution:
         left = 0
         right = lenn - 1
         max_area = 0
+        max_height=max(height)
         if not height:
             return 0
         while left < right:
@@ -11,6 +12,8 @@ class Solution:
             r = height[right]
             size = min(r,l) * (right - left)
             max_area = max(max_area,size)
+            if max_area >= ((max_height)*(right - left)):
+                return max_area
             if l < r :
                 left += 1
             elif l > r :
