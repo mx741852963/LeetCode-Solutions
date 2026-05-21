@@ -6,20 +6,9 @@ class Solution:
         result = []
         if len(nums) < 3:
             return []
-        counts = Counter(nums)
-        zero_count = counts.pop(0, 0)
-        result = []
-        append = result.append 
-        if zero_count >= 3:
-            append([0, 0, 0])
-            
-        # if not counts:
-        #     return result
-        # if len(nums) < 3:
-        #     return []
-        # if counts[0] >= 3:
-        #     result.append([0, 0, 0])
-        # del counts[0] 
+        if counts[0] >= 3:
+            result.append([0, 0, 0])
+        del counts[0] 
         for i, num1 in enumerate(unique):
             for num2 in unique[i:]:
                 if num1 == num2 and counts[num1] < 2:
