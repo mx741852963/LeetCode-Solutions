@@ -10,6 +10,8 @@ class Solution:
             result.append([0, 0, 0])
         del counts[0] 
         for i, num1 in enumerate(unique):
+            if num1 ==0:
+                break
             for num2 in unique[i:]:
                 if num1 == num2 and counts[num1] < 2:
                     continue
