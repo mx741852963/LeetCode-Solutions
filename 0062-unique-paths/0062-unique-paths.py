@@ -1,8 +1,8 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         # Combinations Solution
-        import math
-        return math.comb((m-1)+(n-1),n-1)
+        # import math
+        # return math.comb((m-1)+(n-1),n-1)
         # Recursive Solution
         # Time O(2^(n+m))
         # Space = O(n+m)
@@ -17,17 +17,17 @@ class Solution:
         # Top Down Solution DP (Memoization)
         # Time O(n*m)
         # Space = O(n*m)
-        # memo = {(0,0):1}
-        # def paths(i,j):
-        #     if (i,j) in memo:
-        #         return memo[(i,j)]
-        #     elif i < 0 or j < 0 or i == m or j == n:
-        #         return 0 
-        #     else:
-        #         val=  paths(i,j-1) + paths(i-1,j)
-        #         memo[(i,j)]  = val
-        #         return val
-        # return paths(m-1,n-1)
+        memo = {(0,0):1}
+        def paths(i,j):
+            if (i,j) in memo:
+                return memo[(i,j)]
+            elif i < 0 or j < 0 or i == m or j == n:
+                return 0 
+            else:
+                val=  paths(i,j-1) + paths(i-1,j)
+                memo[(i,j)]  = val
+                return val
+        return paths(m-1,n-1)
         # Bottom Up Solution DP (Tabulation)
         # Time O(n*m)
         # Space = O(n*m)
