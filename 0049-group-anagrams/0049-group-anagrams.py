@@ -9,3 +9,5 @@ class Solution:
             tuplee = tuple(listt)
             counter[tuplee].append(str_)
         return list(counter.values())
+# Time O(n*m)
+# Space O(n*m)
