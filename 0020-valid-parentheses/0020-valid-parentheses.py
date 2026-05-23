@@ -34,7 +34,5 @@ class Solution:
                                     else:
                                         continue
                 if not res and i == lenn - 1 :
-                        return True
-
-                    
+                        return True           
         return False
