@@ -2,6 +2,8 @@ class Solution:
     def isValid(self, s: str) -> bool:
         hashmap = {')':'(','}':'{',']':'['}
         stk = []
+        if len(s) & 1:
+            return False
         for c in s:
             if c not in hashmap :
                 stk.append(c)
