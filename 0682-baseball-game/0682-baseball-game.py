@@ -12,3 +12,5 @@ class Solution:
                 case _ :
                     res.append(int(num))
         return sum(res)
+# Time O(n)
+# Space O(n)
