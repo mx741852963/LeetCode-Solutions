@@ -4,13 +4,9 @@ class Solution:
         for num in tokens:
             match num:
                 case '+':
-                    tem = res.pop()
-                    tem_ = res.pop()
-                    res.append(int(tem_ + tem))
+                    res.append(res.pop() + res.pop())
                 case '*':
-                    tem = res.pop()
-                    tem_ = res.pop()
-                    res.append(int(tem_ * tem))
+                    res.append(res.pop() * res.pop())
                 case '-':
                     tem = res.pop()
                     tem_ = res.pop()
@@ -22,3 +18,5 @@ class Solution:
                 case _:
                     res.append(int(num))
         return res[-1]
+# Time O(n)
+# Space O(n)
