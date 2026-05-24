@@ -16,10 +16,10 @@ class Solution:
         ans= [0]*lenn
         stk = []
         for i,t in enumerate(tem):
-            while stk and stk[-1][0] < t:
-                stk_t,stk_i = stk.pop()
+            while stk and tem[stk[-1]] < t:
+                stk_i = stk.pop()
                 ans[stk_i] = i - stk_i
-            stk.append((t,i))
+            stk.append(i)
         return ans
 # Time O(n)
 # Space O(n)
