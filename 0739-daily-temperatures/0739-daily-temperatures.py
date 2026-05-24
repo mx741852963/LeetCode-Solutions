@@ -21,3 +21,5 @@ class Solution:
                 ans[stk_i] = i - stk_i
             stk.append((t,i))
         return ans
+# Time O(n)
+# Space O(n)
