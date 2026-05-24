@@ -17,7 +17,8 @@ class MinStack:
         return self.stack[-1]
     def getMin(self) -> int:
         return self.min[-1]
-        
+# Time O(1)
+# Space O(n)        
 
 
 # Your MinStack object will be instantiated and called as such:
