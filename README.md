@@ -46,6 +46,7 @@ My journey of problem-solving is documented in this repository.
 | [0011-container-with-most-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -149,6 +150,7 @@ My journey of problem-solving is documented in this repository.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Combinatorics
