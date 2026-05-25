@@ -6,6 +6,7 @@ class Solution:
                 hours += ceil(p / k)
             return hours <= h
 
+        # l = int(sum(piles)/h)
         l = 1
         r = max(piles)
         while l < r:
