@@ -5,9 +5,9 @@ class Solution:
             for p in piles:
                 hours += ceil(p / k)
             return hours <= h
-
+        if len(piles) == 1 and piles[0]==h :
+            return piles[0]
         l = ceil(sum(piles)/h)
-        # l = 1
         r = max(piles)
         while l < r:
             k = (l + r) // 2
