@@ -18,8 +18,9 @@
 #             else:
 #                 l = k + 1
 #         return r
+# Time O(n*log(r))
+# Space O(1)
 import math
-
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         if len(piles) == 1 and piles[0] == h:
@@ -28,14 +29,14 @@ class Solution:
             return max(piles)
         l = math.ceil(sum(piles) / h)
         r = max(piles)
+        math_fun = math.ceil
         while l < r:
             k = (l + r) // 2
             hours = 0
             for p in piles:
-                hours += math.ceil(p / k)
+                hours += math_fun(p / k)
             if hours <= h:
                 r = k
             else:
                 l = k + 1
-                
         return r
