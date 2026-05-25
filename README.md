@@ -108,6 +108,7 @@ My journey of problem-solving is documented in this repository.
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ My journey of problem-solving is documented in this repository.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
