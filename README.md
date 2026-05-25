@@ -159,6 +159,7 @@ My journey of problem-solving is documented in this repository.
 | [0074-search-a-2d-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -194,4 +195,8 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
