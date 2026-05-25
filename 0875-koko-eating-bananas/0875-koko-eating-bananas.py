@@ -29,13 +29,10 @@ class Solution:
             return max(piles)
         l = math.ceil(sum(piles) / h)
         r = max(piles)
-        math_fun = math.ceil
+        c = math.ceil
         while l < r:
             k = (l + r) // 2
-            hours = 0
-            for p in piles:
-                hours += math_fun(p / k)
-            if hours <= h:
+            if sum(c(p / k) for p in piles) <= h:
                 r = k
             else:
                 l = k + 1
