@@ -69,6 +69,7 @@ My journey of problem-solving is documented in this repository.
 | [0682-baseball-game](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Two Pointers
@@ -163,6 +164,7 @@ My journey of problem-solving is documented in this repository.
 | [0278-first-bad-version](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
