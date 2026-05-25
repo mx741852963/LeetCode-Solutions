@@ -4,10 +4,10 @@ class Solution:
         r = num
         while l <= r:
             mid = (l + r) // 2
-            midd = mid * mid
-            if midd == num:
+            square = mid * mid
+            if square == num:
                 return True
-            elif midd > num:
+            elif square > num:
                 r = mid - 1
             else:
                 l = mid + 1
