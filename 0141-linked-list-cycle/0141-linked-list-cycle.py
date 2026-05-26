@@ -9,8 +9,9 @@ class Solution:
         sett = set()
         cur = head 
         while cur :
-            if id(cur) not in sett:
-                sett.add(id(cur))
+            d = id(cur)
+            if  d not in sett:
+                sett.add(d)
                 cur = cur.next
             else :
                 return True
