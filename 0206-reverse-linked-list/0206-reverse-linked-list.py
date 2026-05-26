@@ -9,10 +9,10 @@ class Solution:
         prev = None
         while cur:
             temp = cur.next
-            cur.next = prev
-            prev = cur 
+            cur.next, prev = prev, cur
             cur = temp
         return prev
+
 
 # Time O(n)
 # Space O(1)
