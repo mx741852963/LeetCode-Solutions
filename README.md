@@ -19,6 +19,7 @@ My journey of problem-solving is documented in this repository.
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ My journey of problem-solving is documented in this repository.
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
