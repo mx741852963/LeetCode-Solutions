@@ -17,10 +17,8 @@ class Solution:
         #         return True
         # return False
         # Time O(n)
-        # Space O(n)
-        dummy = ListNode()
-        dummy.next = head
-        slow = fast = dummy
+        # Space O(1)
+        slow = fast = head
         while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
