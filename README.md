@@ -89,6 +89,7 @@ My journey of problem-solving is documented in this repository.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
@@ -221,6 +222,7 @@ My journey of problem-solving is documented in this repository.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
