@@ -1,4 +1,4 @@
-from collections import defaultdict
+# from collections import defaultdict
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
         # count = 0
@@ -29,3 +29,5 @@ class Solution:
             if up_char in first_upper and last_low_idx < first_upper[up_char]:
                 count += 1
         return count
+    # Time O(n)
+    # Space O(1)
