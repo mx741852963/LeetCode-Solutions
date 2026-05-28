@@ -37,6 +37,7 @@ My journey of problem-solving is documented in this repository.
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Sliding Window
@@ -77,6 +78,7 @@ My journey of problem-solving is documented in this repository.
 | [0875-koko-eating-bananas](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
