@@ -18,6 +18,7 @@ My journey of problem-solving is documented in this repository.
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -35,6 +36,7 @@ My journey of problem-solving is documented in this repository.
 | [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -45,6 +47,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Array
