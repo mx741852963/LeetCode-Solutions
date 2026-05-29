@@ -19,8 +19,8 @@ class Solution:
         cur = head
         while cur :
             new_node = old_to_new[cur]
-            new_node.next = old_to_new[cur.next] if cur.next else None
-            new_node.random = old_to_new[cur.random] if cur.random else None
+            new_node.next = old_to_new.get(cur.next, None)
+            new_node.random = old_to_new.get(cur.random, None)
             cur = cur.next
         return old_to_new[head]
         # Time O(n)
