@@ -47,6 +47,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -73,6 +74,7 @@ My journey of problem-solving is documented in this repository.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -156,6 +158,7 @@ My journey of problem-solving is documented in this repository.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Matrix
@@ -184,6 +187,7 @@ My journey of problem-solving is documented in this repository.
 | [0074-search-a-2d-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
