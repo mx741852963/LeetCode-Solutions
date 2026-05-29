@@ -14,13 +14,11 @@ class Solution:
         old_to_new = {}
         while cur:
             node=Node(x=cur.val)
-            old_to_new[cur] = node
-            cur = cur.next
+            old_to_new[cur],cur = node,cur.next
         cur = head
         while cur :
             new_node = old_to_new[cur]
-            new_node.next = old_to_new.get(cur.next, None)
-            new_node.random = old_to_new.get(cur.random, None)
+            new_node.next,new_node.random = old_to_new.get(cur.next, None),old_to_new.get(cur.random, None)
             cur = cur.next
         return old_to_new[head]
         # Time O(n)
