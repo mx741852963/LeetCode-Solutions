@@ -4,8 +4,8 @@ class Solution:
         lenn = len (nums)
         minn = float('inf')
         count = 0
-        # if target in nums:
-        #     return 1
+        if target in nums:
+            return 1
         for r in range(lenn):
             count += nums[r]
             while count >= target:
