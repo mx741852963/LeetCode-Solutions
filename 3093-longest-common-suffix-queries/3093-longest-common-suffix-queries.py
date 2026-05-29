@@ -26,3 +26,9 @@ class Solution:
         for i ,j in enumerate(wordsContainer):trie.insert(j[::-1],i)
         for i in wordsQuery :res.append(trie.query(i[::-1]))
         return res
+# w = len wordsContainer
+# lw = avg len word in wordsContainer
+# q = len wordsQuery
+# qw = avg len word in wordsQuery
+# Time O(w*lw+q*qw)
+# Space (w*lw)
