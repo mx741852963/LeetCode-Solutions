@@ -3,14 +3,12 @@ class Solution:
         l = 0
         lenn = len (nums)
         minn = float('inf')
-        count = 0
-        if target in nums:
-            return 1
+        summ = 0
         for r in range(lenn):
-            count += nums[r]
-            while count >= target:
+            summ += nums[r]
+            while summ >= target:
                 minn = min(minn,r-l+1)
-                count -=nums[l]
+                summ -=nums[l]
                 l +=1
         return minn if minn !=float('inf') else 0
 # Time O(n)
