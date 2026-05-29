@@ -16,3 +16,5 @@ class Solution:
             if wight_of_s1==wight_of_s2:
                 return True
         return False
+# Time O(n)
+# Space O(1)
