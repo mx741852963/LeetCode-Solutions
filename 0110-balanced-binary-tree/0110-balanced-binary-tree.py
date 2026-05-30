@@ -27,6 +27,5 @@ class Solution:
             if abs(left_height - right_height) > 1:return -1  
             return 1 + max(left_height, right_height)
         return check_height(root) != -1
-        check_height(root)
     # Time O(n)
     # Space O(h)
