@@ -13,3 +13,5 @@ class Solution:
                 count[ord(s[l]) - 65] -= 1
                 l += 1
         return lenn - l
+# Time O(n)
+# Space O(1)
