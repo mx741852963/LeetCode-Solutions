@@ -19,6 +19,8 @@ class Solution:
                 if node.right : q.append(node.right)
             depth+=1
         return depth
+# Time O(n)
+# Space O(w)
         # DFS
         # if not root:return 0
         # return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))  
