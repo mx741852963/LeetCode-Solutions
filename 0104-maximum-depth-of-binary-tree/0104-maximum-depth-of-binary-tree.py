@@ -7,6 +7,7 @@
 from collections import deque
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        # BFS
         if not root:return 0
         q = deque([root])
         depth = 0
@@ -18,6 +19,7 @@ class Solution:
                 if node.right : q.append(node.right)
             depth+=1
         return depth
+        # DFS
         # if not root:return 0
         # return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))  
 # Time O(n)
