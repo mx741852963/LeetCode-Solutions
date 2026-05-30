@@ -8,9 +8,9 @@ class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         flag = [True]
         def height(root):
-            if not root:return True
+            if not root:return 0
             left_h = height(root.left)
-            if flag[0] is False:return False
+            if flag[0] is False:return 0
             right_h = height(root.right)
             if abs(left_h-right_h)>1:
                 flag[0] = False
