@@ -2,11 +2,10 @@ class Solution:
     def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
         asteroids.sort()
         summ = mass
-        lenn=len(asteroids)
-        for i in range(lenn):
-            if asteroids[i] > summ:
+        for asteroid in asteroids:
+            if asteroid > summ:
                 return False
-            summ += asteroids[i]
+            summ += asteroid
         return True
         # Time O(n log n)
         # space O(n)
