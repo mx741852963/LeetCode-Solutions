@@ -92,6 +92,7 @@ My journey of problem-solving is documented in this repository.
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ My journey of problem-solving is documented in this repository.
 | [0876-middle-of-the-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ My journey of problem-solving is documented in this repository.
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +202,7 @@ My journey of problem-solving is documented in this repository.
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +234,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
