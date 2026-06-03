@@ -6,3 +6,5 @@ class Solution:
         min_end_water = min(s + d for s, d in zip(waterStartTime, waterDuration))
         ans_water_land = min(max(min_end_water, s) + d for s, d in zip(landStartTime, landDuration))
         return min(ans_land_water, ans_water_land)
+    # Time  O(n+m)
+    # Space O(1)
