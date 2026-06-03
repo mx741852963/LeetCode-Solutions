@@ -10,6 +10,5 @@ class Solution:
         if (p and not q) or (q and not p): return False
         if p.val!=q.val:return False
         return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right)
-        # return self.isSameTree(p,q)
-    # Time O(n+m)
-    # Space O(h_n,h_m)
+    # Time O(min(n,m))
+    # Space O(min(h_n,h_m))
