@@ -12,3 +12,5 @@ class Solution:
             if p.val!=q.val:return False
             return check_SameTree(p.left,q.left) and check_SameTree(p.right,q.right)
         return check_SameTree(p,q)
+    # Time O(n+m)
+    # Space O(h_n,h_m)
