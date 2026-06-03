@@ -17,4 +17,4 @@ class Solution:
         check_diameter(root)
         return self.maxx 
 # Time O(n)
-# Space O(1)
+# Space O(h)
