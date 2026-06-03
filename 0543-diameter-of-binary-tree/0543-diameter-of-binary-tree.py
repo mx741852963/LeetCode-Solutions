@@ -15,3 +15,5 @@ class Solution:
             return 1+max(left,right)
         check_diameter(root)
         return maxx[0]
+# Time O(n)
+# Space O(1)
