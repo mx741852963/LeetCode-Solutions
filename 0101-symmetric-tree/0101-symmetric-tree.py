@@ -12,6 +12,6 @@ class Solution:
             if ro1.val != ro2.val: return False
             return isMirror(ro1.left,ro2.right) and isMirror(ro1.right,ro2.left)  
         if not root: return True  
-        return isMirror(root,root)
+        return isMirror(root.left, root.right)
 # Time O(n)
 # Space O(h)
