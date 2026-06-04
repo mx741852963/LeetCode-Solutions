@@ -11,7 +11,10 @@ class Solution:
                 num = num // 10
                 j = 0
             while j < len(res) - 2:
-                if (res[j] > res[j + 1] < res[j + 2]) or (res[j] < res[j + 1] > res[j + 2]):
+                l = res[j]
+                m = res[j + 1]
+                r = res[j + 2]
+                if m > max(r,l) or m < min(l,r):
                     count += 1
                 j += 1
         return count
