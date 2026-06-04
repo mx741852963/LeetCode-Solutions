@@ -1,6 +1,8 @@
 class Solution:
     def totalWaviness(self, num1: int, num2: int) -> int:
         count = 0
+        if num1 < 100:
+            num1 =101
         for i in range(num1, num2 + 1):
             num = i
             res = []
