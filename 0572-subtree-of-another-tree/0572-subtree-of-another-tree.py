@@ -21,7 +21,7 @@ class Solution:
             if node.left : q.append(node.left)
             if node.right : q .append(node.right)
         return False
-        # def has_subtree(root):# DFS Time O(m*n) Space O(H_root)
+        # def has_subtree(root):# DFS Time O(m*n) Space O(H_root + H_sub)
         #     if not root:return False
         #     if isSameTree(root,subRoot):return True
         #     return has_subtree(root.left) or has_subtree(root.right)
