@@ -11,3 +11,5 @@ class Solution:
             if node.val <= minn or node.val >= maxx: return False
             return is_valid(node.left,minn,node.val) and is_valid(node.right,node.val,maxx)
         return is_valid(root,float("-inf"),float("inf"))
+# Time O(n)
+# Space O(h)
