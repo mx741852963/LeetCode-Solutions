@@ -15,16 +15,14 @@ class Solution:
         if not root:return False
         q = deque()
         q.append(root)
-        while q:
+        while q: # BFS Time O(m*n) Space O(W_root + H_sub)
             node = q.popleft()
             if isSameTree(node,subRoot):return True
             if node.left : q.append(node.left)
             if node.right : q .append(node.right)
         return False
-        # def has_subtree(root):
+        # def has_subtree(root):# DFS Time O(m*n) Space O(H_root)
         #     if not root:return False
         #     if isSameTree(root,subRoot):return True
         #     return has_subtree(root.left) or has_subtree(root.right)
         # return has_subtree(root)
-# Time O(m*n)
-# Space O(n)
