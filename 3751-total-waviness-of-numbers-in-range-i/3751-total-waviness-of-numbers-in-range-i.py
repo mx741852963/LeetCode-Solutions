@@ -15,3 +15,5 @@ class Solution:
                     count += 1
                 j += 1
         return count
+# Time O(n log m)
+# Space O( log m)
