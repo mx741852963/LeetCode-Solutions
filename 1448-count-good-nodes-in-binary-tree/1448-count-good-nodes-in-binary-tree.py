@@ -7,7 +7,6 @@ from collections import deque
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        if not root:return 0
         q = deque()
         q.append((root,root.val))
         count = 0
