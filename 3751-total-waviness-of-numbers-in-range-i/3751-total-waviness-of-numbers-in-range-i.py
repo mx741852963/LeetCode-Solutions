@@ -2,11 +2,9 @@ class Solution:
     def totalWaviness(self, num1: int, num2: int) -> int:
         wave = 0
         for i in range(num1, num2 + 1):
-            num,j = str(i),0
+            num = str(i)
             lenn=len(num)
-            while j < lenn - 2:
-                wave +=  num[j + 1] > max(num[j], num[j + 2]) or num[j + 1] < min(num[j], num[j + 2]) 
-                j+=1
+            for  j  in range(lenn-2):wave +=  num[j + 1] > max(num[j], num[j + 2]) or num[j + 1] < min(num[j], num[j + 2]) 
         return wave
 #         count = 0
 #         if num1 < 100:
