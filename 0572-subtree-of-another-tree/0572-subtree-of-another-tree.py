@@ -17,9 +17,9 @@ class Solution:
         q.append(root)
         while q:
             node = q.popleft()
+            if isSameTree(node,subRoot):return True
             if node.left : q.append(node.left)
             if node.right : q .append(node.right)
-            if isSameTree(node,subRoot):return True
         return False
         # def has_subtree(root):
         #     if not root:return False
