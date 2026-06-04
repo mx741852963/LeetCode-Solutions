@@ -270,6 +270,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +308,12 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
