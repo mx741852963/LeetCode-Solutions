@@ -1,7 +1,7 @@
 class Solution:
     def totalWaviness(self, num1: int, num2: int) -> int:
         wave = 0
-        if num1 < 100:num1 = 100
+        # if num1 < 100:num1 = 100
         for i in range(num1, num2 + 1):
             num,j = str(i),0
             lenn=len(num)
