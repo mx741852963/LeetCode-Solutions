@@ -5,8 +5,7 @@ class Solution:
             num,j = str(i),0
             lenn=len(num)
             while j < lenn - 2:
-                l,m,r = num[j],num[j + 1],num[j + 2]
-                wave +=  m > max(r, l) or m < min(l, r) 
+                wave +=  num[j + 1] > max(num[j], num[j + 2]) or num[j + 1] < min(num[j], num[j + 2]) 
                 j+=1
         return wave
 #         count = 0
