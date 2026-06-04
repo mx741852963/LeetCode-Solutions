@@ -6,8 +6,6 @@ class Solution:
         for i in range(num1, num2 + 1):
             num = i
             res = []
-            if i < 100:
-                continue
             while num > 0:
                 res.append(num % 10)
                 num = num // 10
