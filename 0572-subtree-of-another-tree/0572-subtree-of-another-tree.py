@@ -1,3 +1,4 @@
+from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -11,8 +12,19 @@ class Solution:
             if not p or not q: return False
             if p.val!=q.val:return False
             return isSameTree(p.left,q.left) and isSameTree(p.right,q.right)
-        def has_subtree(root):
-            if not root:return False
-            if isSameTree(root,subRoot):return True
-            return has_subtree(root.left) or has_subtree(root.right)
-        return has_subtree(root)
+        if not root:return False
+        q = deque()
+        q.append(root)
+        while q:
+            node = q.popleft()
+            if node.left : q.append(node.left)
+            if node.right : q .append(node.right)
+            if isSameTree(node,subRoot):return True
+        return False
+        # def has_subtree(root):
+        #     if not root:return False
+        #     if isSameTree(root,subRoot):return True
+        #     return has_subtree(root.left) or has_subtree(root.right)
+        # return has_subtree(root)
+# Time O(m*n)
+# Space O(n)
