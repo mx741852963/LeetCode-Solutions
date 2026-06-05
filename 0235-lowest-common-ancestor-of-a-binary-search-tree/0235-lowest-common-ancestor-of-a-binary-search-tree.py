@@ -12,3 +12,5 @@ class Solution:
             elif node.val > p.val and node.val > q.val: return search(node.left)
             else:return node
         return search(root)
+# Time O(h)
+# Space O(h)
