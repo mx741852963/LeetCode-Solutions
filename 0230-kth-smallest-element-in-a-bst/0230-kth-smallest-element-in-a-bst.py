@@ -6,15 +6,13 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.k = k
-        self.ans = 0
+        self.k,self.ans = k,0
         def dfs(node):
             if not node : return 
             dfs(node.left)
-            if self.k == 1:
-                self.ans = node.val
+            if self.k == 1:self.ans = node.val
             self.k -=1
-            if self.k > 0 :
-                dfs(node.right)
+            if self.k > 0 :dfs(node.right)
         dfs(root)
         return self.ans
+# Time and Space O(n)
