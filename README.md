@@ -279,6 +279,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -292,6 +293,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -313,6 +315,7 @@ My journey of problem-solving is documented in this repository.
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -325,6 +328,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
