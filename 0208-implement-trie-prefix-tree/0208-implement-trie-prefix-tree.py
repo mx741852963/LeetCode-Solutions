@@ -1,10 +1,10 @@
 class Trie:
 
     def __init__(self):
-        self.trie = set()
+        self.trie = {}
 
     def insert(self, word: str) -> None:
-        self.trie.add(word)
+        self.trie[word] = word
         return None
 
     def search(self, word: str) -> bool:
