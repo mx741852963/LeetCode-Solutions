@@ -4,17 +4,27 @@ class Trie:
         self.trie = {}
 
     def insert(self, word: str) -> None:
-        self.trie[word] = word
-        return None
+        node = self.trie
+        for char in word:
+            if char not in node:
+                node[char] = {}
+            node = node[char]
+        node["@"] = True
 
     def search(self, word: str) -> bool:
-        return True if word in self.trie else False
+        node = self.trie 
+        for char in word:
+            if char not in node :
+                 return False
+            node = node[char]   
+        return "@" in node 
 
     def startsWith(self, prefix: str) -> bool:
-        for word in self.trie:
-            if word.startswith(prefix):return True  
-        return False 
-
+        node = self.trie
+        for char in prefix:
+            if char not  in node:return False
+            node = node[char]
+        return True
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
