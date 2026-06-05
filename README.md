@@ -15,6 +15,7 @@ My journey of problem-solving is documented in this repository.
 | [0138-copy-list-with-random-pointer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -33,6 +34,7 @@ My journey of problem-solving is documented in this repository.
 | [0020-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -170,6 +172,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
