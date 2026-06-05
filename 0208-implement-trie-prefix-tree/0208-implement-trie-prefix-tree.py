@@ -12,9 +12,7 @@ class Trie:
 
     def startsWith(self, prefix: str) -> bool:
         for word in self.trie:
-            if word.startswith(prefix):
-                return True
-            
+            if word.startswith(prefix):return True  
         return False 
 
 
