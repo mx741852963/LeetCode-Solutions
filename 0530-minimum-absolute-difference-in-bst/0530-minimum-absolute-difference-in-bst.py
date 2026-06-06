@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
-        self.minn = float("inf")
+        self.minn = inf
         self.prev = None
         def dfs(node):
             if not node :return 
