@@ -92,6 +92,7 @@ My journey of problem-solving is documented in this repository.
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -180,6 +181,7 @@ My journey of problem-solving is documented in this repository.
 | [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
