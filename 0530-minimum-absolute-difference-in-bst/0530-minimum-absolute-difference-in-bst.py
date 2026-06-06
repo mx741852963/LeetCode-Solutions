@@ -16,4 +16,6 @@ class Solution:
             self.prev = node.val
             dfs(node.right)
         dfs(root)
-        return self.minn
+        return self.minn 
+# Time O(n)
+# Space O(n)
