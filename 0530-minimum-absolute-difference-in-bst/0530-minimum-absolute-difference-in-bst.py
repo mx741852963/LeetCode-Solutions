@@ -18,10 +18,10 @@ class Solution:
         # dfs(root)
         # return self.minn 
         def dfs(node,prev,minn):
-            if not node :return prev,minn
+            if not node or minn==1 :return prev,minn
             prev,minn = dfs(node.left,prev,minn)
-            if prev is not None:
-                minn = min(minn,node.val - prev)
+            if minn==1 : return prev,minn
+            if prev is not None:minn = min(minn,node.val - prev)
             prev = node.val
             return dfs(node.right,prev,minn)
         _,minn = dfs(root,None,inf)
