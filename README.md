@@ -277,6 +277,7 @@ My journey of problem-solving is documented in this repository.
 | [0098-validate-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
@@ -308,6 +309,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -319,6 +321,7 @@ My journey of problem-solving is documented in this repository.
 | [0098-validate-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
