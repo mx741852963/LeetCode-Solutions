@@ -10,12 +10,14 @@ class Solution:
         q=deque([root])
         res = []
         while q:
-            level = []
+            avg = 0
             lenn = len(q)
             for i in range(lenn):
                 node = q.popleft()
-                level.append(node.val)
+                avg+=node.val
                 if node.left:q.append(node.left)
                 if node.right:q.append(node.right)
-            res.append(sum(level)/lenn)
+            res.append(avg/lenn)
         return res
+# Time O(n)
+# Space O(n)
