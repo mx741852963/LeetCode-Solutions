@@ -23,6 +23,7 @@ My journey of problem-solving is documented in this repository.
 | [0567-permutation-in-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String
@@ -91,6 +92,7 @@ My journey of problem-solving is documented in this repository.
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -289,6 +291,7 @@ My journey of problem-solving is documented in this repository.
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +339,7 @@ My journey of problem-solving is documented in this repository.
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
