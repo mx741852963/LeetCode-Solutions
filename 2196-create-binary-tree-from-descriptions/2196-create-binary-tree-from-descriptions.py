@@ -13,7 +13,7 @@ class Solution:
             if isleft:nodes[parent].left = nodes[child]
             else:nodes[parent].right= nodes[child]
             children.add(child)
-        for parent,_,_ in descriptions:
-            if parent not in children:return nodes[parent]
+        for node in nodes:
+            if node not in children:return nodes[node]
 # Time O(n)
 # Space O(n)
