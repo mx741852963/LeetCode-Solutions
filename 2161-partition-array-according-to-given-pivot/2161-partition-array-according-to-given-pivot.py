@@ -1,12 +1,15 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        lenn = len(nums)
         l,r,piv = [],[],[]
-        for i in range(lenn):
-            if nums[i] > pivot:
-                r.append(nums[i])
-            elif nums[i] < pivot:
-                l.append(nums[i])
+        for num in nums:
+            if num > pivot:
+                r.append(num)
+            elif num < pivot:
+                l.append(num)
             else:
-                piv.append(nums[i])
-        return  l + piv + r
+                piv.append(num)
+        l.extend(piv)
+        l.extend(r)
+        return  l 
+# Time O(n)
+# Space O(n)
