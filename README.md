@@ -100,6 +100,7 @@ My journey of problem-solving is documented in this repository.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +255,7 @@ My journey of problem-solving is documented in this repository.
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +371,12 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
