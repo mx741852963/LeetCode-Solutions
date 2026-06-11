@@ -17,3 +17,5 @@ class Solution:
                     q.append((nei_node, depth + 1))
             
         return pow(2, max_depth - 1, 10**9 + 7)
+# Time O(n)
+# Space O(n)
