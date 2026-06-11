@@ -10,8 +10,7 @@ class Solution:
         max_depth = 0
         while q:
             node, depth = q.popleft()
-            if depth > max_depth:
-                max_depth = depth
+            max_depth = depth
             for nei_node in adjacency_list[node]:
                 if nei_node not in seen:
                     seen.add(nei_node)
