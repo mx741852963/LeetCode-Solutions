@@ -14,5 +14,6 @@ class Solution:
                 if nei_node not in seen:
                     seen.add(nei_node)
                     q.append((nei_node, depth + 1))
-            max_depth = max(depth, max_depth)
+            # max_depth = max(depth, max_depth)
+            max_depth = depth
         return pow(2, max_depth - 1, 10**9 + 7)
