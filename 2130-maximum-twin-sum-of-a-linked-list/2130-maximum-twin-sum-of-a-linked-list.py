@@ -16,6 +16,8 @@ class Solution:
         #     summ = max(summ,mapp[i] + mapp[j])
         #     j -=1
         # return summ
+        # Time O(n)
+        # Space O(n)
         slow,fast,start,prev,summ = head,head,head,None,0
         while fast and fast.next:
             slow,fast = slow.next,fast.next.next
@@ -26,4 +28,6 @@ class Solution:
             summ= max(summ,(start.val+prev.val))
             prev,start = prev.next,start.next
         return summ
+        # Time O(n)
+        # Space O(1)
 
