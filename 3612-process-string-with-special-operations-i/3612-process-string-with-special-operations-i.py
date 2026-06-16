@@ -9,3 +9,5 @@ class Solution:
                     if res:res.pop()
                 case _:res.append(char)
         return ''.join(res)
+# Time O(n)
+# Space O(n)
