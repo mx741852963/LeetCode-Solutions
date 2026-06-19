@@ -18,8 +18,7 @@ class Solution:
         n = len(nums)
         total_subarrays = 0
         for i in range(n):
-            if nums[i] % k != 0:
-                continue
+            if nums[i] % k != 0:continue
             left_bound = -1
             low, high = i, n - 1
             while low <= high:
@@ -28,14 +27,9 @@ class Solution:
                 if current_gcd == k:
                     left_bound = mid
                     high = mid - 1
-                elif current_gcd > k:
-                    low = mid + 1
-                else:
-                    high = mid - 1
-
-            if left_bound == -1:
-                continue
-
+                elif current_gcd > k:low = mid + 1
+                else:high = mid - 1
+            if left_bound == -1:continue
             right_bound = -1
             low, high = i, n - 1
             while low <= high:
@@ -44,9 +38,7 @@ class Solution:
                 if current_gcd == k:
                     right_bound = mid
                     low = mid + 1
-                elif current_gcd > k:
-                    low = mid + 1
-                else:
-                    high = mid - 1
+                elif current_gcd > k:low = mid + 1
+                else:high = mid - 1
             total_subarrays += (right_bound - left_bound + 1)
         return total_subarrays
