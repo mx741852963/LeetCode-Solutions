@@ -22,6 +22,8 @@ class NumArray:
                 left += (1 << j)
                 
         return total_sum
+# Time and Space O(n log n) for sp tabel
+# Time O(log n) and space O(1) for qurey
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
