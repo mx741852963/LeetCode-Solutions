@@ -12,7 +12,7 @@ class Solution:
         cur_altitude = 0
         for g in gain :
             cur_altitude += g
-            if cur_altitude > maxx : maxx = cur_altitude
+            maxx = max(maxx, cur_altitude)
         return maxx
 # Time O(n)
-# Space O(n)
+# Space O(1)
