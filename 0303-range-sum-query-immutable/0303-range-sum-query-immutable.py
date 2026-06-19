@@ -3,6 +3,7 @@ class NumArray:
     def __init__(self, nums: List[int]):
         self.nums= nums
         self.lookup = self.buildSparseTableSum(nums)
+        self.cols = len(self.lookup[0]) if self.lookup else 0
     def buildSparseTableSum(self,arr):
         n = len(arr)
         cols = n.bit_length()
@@ -14,8 +15,8 @@ class NumArray:
         return lookup
     def sumRange(self, left: int, right: int) -> int:
         total_sum = 0
-        cols = len(self.lookup[0]) if self.lookup else 0
-        for j in range(cols - 1, -1, -1):
+        n = self.cols - 1
+        for j in range(n, -1, -1):
             if (1 << j) <= (right - left + 1):
                 total_sum += self.lookup[left][j]
                 left += (1 << j)
