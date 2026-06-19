@@ -1,33 +1,5 @@
 class Solution:
     def longestSubarray(self, nums: List[int], limit: int) -> int:
-        n = len(nums)
-        if n == 0: return 0
-        lg = [0] * (n + 1)
-        for i in range(2, n + 1):
-            lg[i] = lg[i // 2] + 1
-        cols = n.bit_length()
-        st_max = [[0] * cols for _ in range(n)]
-        st_min = [[0] * cols for _ in range(n)]
-        for i in range(n):
-            st_max[i][0] = nums[i]
-            st_min[i][0] = nums[i]
-        for j in range(1, cols):
-            for i in range(0, n - (1 << j) + 1):
-                st_max[i][j] = max(st_max[i][j-1], st_max[i + (1 << (j-1))][j-1])
-                st_min[i][j] = min(st_min[i][j-1], st_min[i + (1 << (j-1))][j-1])
-        l = 0
-        max_sub = 0
-        for r in range(n):
-            j = lg[r - l + 1]
-            curr_max = max(st_max[l][j], st_max[r - (1 << j) + 1][j])
-            curr_min = min(st_min[l][j], st_min[r - (1 << j) + 1][j])
-            while curr_max - curr_min > limit:
-                l += 1
-                j = lg[r - l + 1]
-                curr_max = max(st_max[l][j], st_max[r - (1 << j) + 1][j])
-                curr_min = min(st_min[l][j], st_min[r - (1 << j) + 1][j])
-            max_sub = max(max_sub, r - l + 1)  
-        return max_sub
         # def sp(arr,op):
         #     n = len(arr)
         #     cols = n.bit_length()
@@ -56,6 +28,21 @@ class Solution:
         #     r+=1
         #     max_sub = max(max_sub, r - l)
         # return max_sub
+        maxx = deque([])
+        minn = deque([])
+        l = 0
+        for num in nums:
+            while maxx and num > maxx[-1]:maxx.pop()
+            maxx.append(num)
+            while minn and num < minn[-1]:minn.pop()
+            minn.append(num)    
+            if maxx[0] - minn[0] > limit:
+                if nums[l] == maxx[0]:maxx.popleft()
+                if nums[l] == minn[0]:minn.popleft()
+                l+=1
+        return len(nums) - l 
+# Time and Space O(n)
+        
 
 
 
