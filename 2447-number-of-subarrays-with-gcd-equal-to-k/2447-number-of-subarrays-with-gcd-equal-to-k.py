@@ -1,0 +1,28 @@
+class Solution:
+    def subarrayGCD(self, nums: List[int], k: int) -> int:
+        if len(nums) == 1 :return 0 if k!=nums[0] else 1
+        def sp(arr):
+            n = len(arr)
+            cols = n.bit_length()
+            lk =[[0]*cols for _ in range(n)]
+            for i in range(n):
+                lk[i][0] = arr[i]
+            for j in range(1,cols):
+                for i in range(0,n-(1<<j)+1):
+                    lk[i][j] = math.gcd(lk[i][j-1],lk[i+(1<<j-1)][j-1])
+            return lk
+        def query(l,r,lk):
+            lenn = r - l +1
+            j = lenn.bit_length()-1
+            return math.gcd(lk[l][j],lk[r-(1<<j)+1][j])
+        sp_gcd = sp(nums) 
+        n = len(nums)
+        res = 0
+        for i in range(n):
+            cur_gcd = 0
+            for j in range(i,n):
+                cur_gcd = query(i,j,sp_gcd) 
+                if cur_gcd ==k: res+=1
+                elif cur_gcd < k : break
+        return res
+
