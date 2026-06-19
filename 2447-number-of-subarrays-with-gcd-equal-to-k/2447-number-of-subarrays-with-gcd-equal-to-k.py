@@ -19,7 +19,7 @@ class Solution:
         n = len(nums)
         res = 0
         for i in range(n):
-            cur_gcd = 0
+            
             for j in range(i,n):
                 cur_gcd = query(i,j,sp_gcd) 
                 if cur_gcd ==k: res+=1
