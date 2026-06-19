@@ -86,6 +86,7 @@ My journey of problem-solving is documented in this repository.
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -192,6 +193,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -271,6 +273,7 @@ My journey of problem-solving is documented in this repository.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
