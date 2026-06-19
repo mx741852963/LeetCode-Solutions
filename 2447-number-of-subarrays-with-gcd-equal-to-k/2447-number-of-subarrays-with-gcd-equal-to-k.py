@@ -1,6 +1,5 @@
 class Solution:
     def subarrayGCD(self, nums: List[int], k: int) -> int:
-        if len(nums) == 1 :return 0 if k!=nums[0] else 1
         def sp(arr):
             n = len(arr)
             cols = n.bit_length()
