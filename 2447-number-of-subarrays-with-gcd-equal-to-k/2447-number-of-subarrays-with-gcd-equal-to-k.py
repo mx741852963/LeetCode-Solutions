@@ -17,12 +17,37 @@ class Solution:
             return math.gcd(lk[l][j],lk[r-(1<<j)+1][j])
         sp_gcd = sp(nums) 
         n = len(nums)
-        res = 0
+        total_subarrays = 0
         for i in range(n):
-            
-            for j in range(i,n):
-                cur_gcd = query(i,j,sp_gcd) 
-                if cur_gcd ==k: res+=1
-                elif cur_gcd < k : break
-        return res
+            if nums[i] % k != 0:
+                continue
+            left_bound = -1
+            low, high = i, n - 1
+            while low <= high:
+                mid = (low + high) // 2
+                current_gcd = query(i, mid, sp_gcd)
+                if current_gcd == k:
+                    left_bound = mid
+                    high = mid - 1
+                elif current_gcd > k:
+                    low = mid + 1
+                else:
+                    high = mid - 1
 
+            if left_bound == -1:
+                continue
+
+            right_bound = -1
+            low, high = i, n - 1
+            while low <= high:
+                mid = (low + high) // 2
+                current_gcd = query(i, mid, sp_gcd)
+                if current_gcd == k:
+                    right_bound = mid
+                    low = mid + 1
+                elif current_gcd > k:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+            total_subarrays += (right_bound - left_bound + 1)
+        return total_subarrays
