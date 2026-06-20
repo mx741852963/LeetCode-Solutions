@@ -97,6 +97,7 @@ My journey of problem-solving is documented in this repository.
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -138,6 +139,7 @@ My journey of problem-solving is documented in this repository.
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Backtracking
@@ -159,6 +161,7 @@ My journey of problem-solving is documented in this repository.
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
