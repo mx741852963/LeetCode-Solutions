@@ -15,17 +15,15 @@ class Solution:
         # space O(n)
         #  Solution three
         n= len(nums)
+        ans = []
         res = [0]* (n+1)
         counter = Counter(nums)
         for key, value in counter.items():
-            if res[value] ==0:
-                res[value] = [key]
-            else:
-                res[value].append(key)
-        ans = []
+            if res[value] ==0:res[value] = [key]
+            else:res[value].append(key)
         for i in range(n,-1,-1):
             if res[i]!=0: ans.extend(res[i])
             if len(ans)==k:break
-        return ans
+        return ans #6ms
         # Time O(n)
         # space O(n)
