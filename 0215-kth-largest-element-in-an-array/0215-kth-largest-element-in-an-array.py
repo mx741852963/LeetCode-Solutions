@@ -6,3 +6,10 @@ class Solution:
             k -= 1
             heapq.heappop(nums)
         return -nums[0]
+# Time O(n + K log n)
+# Space O(1)
+# 
+        while k > 1:
+            k -= 1
+            nums[nums.index(max(nums))] = 0
+        return max(nums)
