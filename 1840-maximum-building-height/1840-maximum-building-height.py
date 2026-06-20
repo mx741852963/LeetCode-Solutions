@@ -15,5 +15,6 @@ class Solution:
             tem = ((r[i + 1][0] - r[i][0]) + r[i][1] + r[i + 1][1]) // 2
             res = max(res, tem)
         return res
-# Time O(n)
-# Space O(n)
+# M from r
+# Time O(M log M)
+# Space O(M)
