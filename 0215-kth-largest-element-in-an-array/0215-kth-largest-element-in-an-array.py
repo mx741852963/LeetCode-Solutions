@@ -18,7 +18,6 @@ class Solution:
         min_heap = []
         for num in nums:
             if len(min_heap) < k:
-                print(num)
                 heapq.heappush(min_heap, num)
             else:
                 heapq.heappushpop(min_heap, num)
