@@ -25,4 +25,7 @@ class Solution:
         ans = []
         for i in range(n,-1,-1):
             if res[i]!=0: ans.extend(res[i])
-        return ans[:k]
+            if len(ans)==k:break
+        return ans
+        # Time O(n)
+        # space O(n)
