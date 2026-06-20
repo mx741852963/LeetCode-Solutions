@@ -7,7 +7,6 @@ class Solution:
             largest = heapq.heappop(stones)
             next_largest = heapq.heappop(stones)
             if largest != next_largest:heapq.heappush(stones, largest-next_largest)
-        if len(stones)==1:return -stones[-1]
-        else:return 0
+        return -stones[0] if stones else 0
 # Time O(n log n)
-# Space O(n)
+# Space O(1)
