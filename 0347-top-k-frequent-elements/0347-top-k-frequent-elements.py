@@ -23,6 +23,7 @@ class Solution:
             else:res[value].append(key)
         for i in range(n,-1,-1):
             if res[i]!=0: ans.extend(res[i])
+            if len(ans) >= k:break
         return ans[:k] #6ms
         # Time O(n)
         # space O(n)
