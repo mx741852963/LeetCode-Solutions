@@ -23,3 +23,5 @@ class Solution:
             else:
                 heapq.heappushpop(min_heap, num)
         return min_heap[0]
+# Time O(n log k)
+# Space O(K)
