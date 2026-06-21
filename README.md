@@ -21,6 +21,7 @@ My journey of problem-solving is documented in this repository.
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -42,6 +43,7 @@ My journey of problem-solving is documented in this repository.
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -145,6 +147,7 @@ My journey of problem-solving is documented in this repository.
 | [0217-contains-duplicate](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -234,6 +237,7 @@ My journey of problem-solving is documented in this repository.
 | [0169-majority-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -420,6 +424,7 @@ My journey of problem-solving is documented in this repository.
 | [0023-merge-k-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -446,6 +451,7 @@ My journey of problem-solving is documented in this repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
