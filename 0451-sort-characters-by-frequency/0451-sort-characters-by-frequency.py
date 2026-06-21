@@ -1,7 +1,6 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        res = []
-        ans = ''
+        res,ans = [],''
         counter = Counter(s)
         for char, frequency in counter.items():
             heapq.heappush(res, (-frequency,char))
@@ -9,3 +8,5 @@ class Solution:
             frequency,char = heapq.heappop(res)
             ans += char * -frequency
         return ans
+# Space O(u) u = characters frequency
+# Time O( n + u log u)
