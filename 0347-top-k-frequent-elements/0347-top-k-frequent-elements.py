@@ -1,8 +1,9 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         #  Solution one 
-        # return [item[0] for item in Counter(nums).most_common(k)]
-        return [Counter(nums).most_common(k)[i][0] for i in range(k)] 
+        return [item[0] for item in Counter(nums).most_common(k)]
+        # Time O(n log K)
+        # space O(k)
         #  Solution two
         # counter = Counter(nums)
         # min_heap = []
@@ -12,7 +13,7 @@ class Solution:
         #     else:
         #         heapq.heappushpop(min_heap, (value, key))
         # return [min_heap[i][1] for i in range(k)] # 0ms
-        # Time O(n * log K)
+        # Time O(n log K)
         # space O(n)
         #  Solution three
         # n= len(nums)
