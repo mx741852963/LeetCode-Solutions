@@ -1,8 +1,8 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         #  Solution one 
-        return [item[0] for item in Counter(nums).most_common(k)]
-        # return [Counter(nums).most_common(k)[i][0] for i in range(k)] 3 second
+        # return [item[0] for item in Counter(nums).most_common(k)]
+        return [Counter(nums).most_common(k)[i][0] for i in range(k)] 
         #  Solution two
         # counter = Counter(nums)
         # min_heap = []
