@@ -1,7 +1,7 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         res = []
-        heapq.heapify(res)
+        # heapq.heapify(res)
         for i in range(len(points)):
             if len(res) < k:
                 heapq.heappush(
