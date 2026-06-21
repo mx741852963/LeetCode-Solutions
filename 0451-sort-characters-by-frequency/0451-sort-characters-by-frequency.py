@@ -7,5 +7,5 @@ class Solution:
             heapq.heappush(res, (-frequency,char))
         while len(res) != 0:
             frequency,char = heapq.heappop(res)
-            ans += "".join(char) * -frequency
+            ans += char * -frequency
         return ans
