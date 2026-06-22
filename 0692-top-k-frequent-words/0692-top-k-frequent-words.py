@@ -6,7 +6,7 @@ class Solution:
         while k :
             k-=1
             _ ,key = heapq.heappop(max_heap)
-            res.append(key)
+            res.extend([key])
         return res
 
         # Time O(n log k)
