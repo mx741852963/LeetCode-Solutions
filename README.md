@@ -28,6 +28,7 @@ My journey of problem-solving is documented in this repository.
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String
@@ -51,6 +52,7 @@ My journey of problem-solving is documented in this repository.
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -114,6 +116,7 @@ My journey of problem-solving is documented in this repository.
 | [2161-partition-array-according-to-given-pivot](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -247,6 +250,7 @@ My journey of problem-solving is documented in this repository.
 | [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
