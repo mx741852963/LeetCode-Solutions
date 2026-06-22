@@ -29,6 +29,7 @@ My journey of problem-solving is documented in this repository.
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String
@@ -117,6 +118,7 @@ My journey of problem-solving is documented in this repository.
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -251,6 +253,7 @@ My journey of problem-solving is documented in this repository.
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
