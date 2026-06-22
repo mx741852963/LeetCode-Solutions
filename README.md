@@ -176,6 +176,7 @@ My journey of problem-solving is documented in this repository.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -205,6 +206,7 @@ My journey of problem-solving is documented in this repository.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -322,6 +324,7 @@ My journey of problem-solving is documented in this repository.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
