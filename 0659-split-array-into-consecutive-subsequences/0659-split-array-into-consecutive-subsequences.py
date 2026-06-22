@@ -8,8 +8,7 @@ class Solution:
             else:
                 heapq.heappush(chains[num], 1)
         for last_num in chains:
-            if chains[last_num] and chains[last_num][0] < 3:
-                return False
+            if chains[last_num] and chains[last_num][0] < 3:return False
         return True
         # for last_num in chains:
         #     for length in chains[last_num]:
