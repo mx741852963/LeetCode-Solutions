@@ -9,3 +9,5 @@ class Solution:
             counts['o'] // 2, 
             counts['n']
         )
+# Time O(n)
+# Space O(1)
