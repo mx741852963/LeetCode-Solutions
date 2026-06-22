@@ -13,5 +13,5 @@ class Solution:
                 if key > max_word:
                     max_word = key           
         return max_word   
-# Time O(n)
+# Time O(n*m) m : avg of message len
 # Spcae O(u)
