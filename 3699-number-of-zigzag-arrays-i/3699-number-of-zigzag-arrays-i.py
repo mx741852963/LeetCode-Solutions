@@ -6,10 +6,5 @@ class Solution:
             return 1 if n == 1 else 0           
         dp = [1] * m        
         for _ in range(n - 1):
-            new_dp = [0] * m
-            running_sum = 0
-            for i in range(m - 1, 0, -1):
-                running_sum = (running_sum + dp[i]) % mod
-                new_dp[m - i] = running_sum      
-            dp = new_dp
+            dp = [0] + [num % mod for num in itertools.accumulate(reversed(dp))][:-1]
         return (sum(dp) * 2) % mod
