@@ -201,6 +201,7 @@ My journey of problem-solving is documented in this repository.
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Recursion
@@ -230,6 +231,7 @@ My journey of problem-solving is documented in this repository.
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
