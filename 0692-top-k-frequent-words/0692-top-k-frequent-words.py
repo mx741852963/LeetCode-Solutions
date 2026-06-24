@@ -26,7 +26,7 @@ class Solution:
 
 
         # Time O(n log k)
-        # Space O(k)
+        # Space O(n)
 
         # counter = Counter(words)
         # max_heap,res = [],[]
@@ -36,3 +36,4 @@ class Solution:
         #     _ ,key = heapq.heappop(max_heap)
         #     res.extend([key])
         # return res
+        # Time O(n + u log u)
