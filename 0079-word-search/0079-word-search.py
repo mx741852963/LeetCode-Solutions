@@ -1,29 +1,25 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         m, n, w = len(board), len(board[0]), len(word)
-        # if m == 1 and n == 1:
-        #     return board[0][0] == word
-
-        def backtrack(pos, index):
-            i, j = pos
-            if board[i][j] != word[index]:
+        def backtrack(r,c, index):
+            if board[r][c] != word[index]:
                 return False
             if index == w - 1:
                 return True
-            char = board[i][j]
-            board[i][j] = "@"
-            for i_off, j_off in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
-                r, c = i + i_off, j + j_off
-                if 0 <= r < m and 0 <= c < n:
-                    if backtrack((r, c), index + 1):
+            char = board[r][c]
+            board[r][c] = "@"
+            for i_, j_ in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
+                dr, dc = r + i_, c + j_
+                if 0 <= dr < m and 0 <= dc < n:
+                    if backtrack(dr, dc, index + 1):
                         return True
-            board[i][j] = char
+            board[r][c] = char
             return False
 
         for i in range(m):
             for j in range(n):
-                if backtrack((i, j), 0):
+                if backtrack(i, j, 0):
                     return True
         return False
-# Time O(n*m)**2 
+# Time O(n*m*3**w)
 # Space O(w)
