@@ -12,5 +12,6 @@ class Solution:
         #     y = target - nums[i]
         #     if y in h and h[y] != i:
         #         return [i,h[y]]
-# Time = O(n)
-# Space = O(n)
+# Time = O(n) # Space = O(n)
+
+
