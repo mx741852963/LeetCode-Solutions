@@ -1,15 +1,15 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         m, n, w = len(board), len(board[0]), len(word)
-        if m == 1 and n == 1:
-            return board[0][0] == word
+        # if m == 1 and n == 1:
+        #     return board[0][0] == word
 
         def backtrack(pos, index):
             i, j = pos
-            if index == w:
-                return True
             if board[i][j] != word[index]:
                 return False
+            if index == w - 1:
+                return True
             char = board[i][j]
             board[i][j] = "@"
             for i_off, j_off in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
