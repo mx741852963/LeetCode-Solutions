@@ -17,5 +17,5 @@ class Solution:
 
         backtrack(0, 0)
         return ans
-# Time O(2**n)
+# Time O(4**n/sqrt(n))
 # Space O(n)
