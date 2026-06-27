@@ -26,5 +26,5 @@ class Solution:
 
         backtrack(0)
         return ans
-# Time O(4**n)
+# Time O(n*4**n)
 # Spcae O(n)
