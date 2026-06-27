@@ -84,6 +84,7 @@ My journey of problem-solving is documented in this repository.
 | [0035-search-insert-position](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -174,6 +175,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
