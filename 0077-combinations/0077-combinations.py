@@ -6,6 +6,7 @@ class Solution:
             if len(sol) == k:
                 ans.append(sol[:])
                 return
+            if num < 1: return 
             left = num
             needed = k - len(sol)
             if left > needed:
