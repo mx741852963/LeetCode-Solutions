@@ -1,22 +1,21 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        candidates.sort()
+        candidates.sort() 
         ans, sol = [], []
         n = len(candidates)
-        visited = [False for _ in range(n)]
-        def backtrack(i, cur_sum):
+        def backtrack(start, cur_sum):
             if cur_sum == target:
-                ans.append(sol[:])
+                ans.append(sol[:]) 
                 return
-            if cur_sum > target or i == n:
+            if cur_sum > target:
                 return
-            backtrack(i + 1, cur_sum)
-            if i > 0 and candidates[i] == candidates[i-1] and not visited[i-1]:
-                return   
-            sol.append(candidates[i])
-            visited[i] = True
-            backtrack(i + 1, cur_sum + candidates[i])
-            sol.pop()
-            visited[i] = False
+            for i in range(start, n):
+                if i > start and candidates[i] == candidates[i-1]:
+                    continue
+                sol.append(candidates[i])
+                backtrack(i + 1, cur_sum + candidates[i])
+                sol.pop()            
         backtrack(0, 0)
         return ans
+# Time O(2**n)
+# Space O(n)
