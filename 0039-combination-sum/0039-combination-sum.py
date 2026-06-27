@@ -14,4 +14,9 @@ class Solution:
             sol.pop()
         backtrack(0,0)
         return ans
+# Time O(N^((T/M) + 1)) 
+# Space O(T/M)
+# M = min(candidates)
+# T = target
+
                 
