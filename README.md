@@ -84,6 +84,7 @@ My journey of problem-solving is documented in this repository.
 | [0035-search-insert-position](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -177,6 +178,7 @@ My journey of problem-solving is documented in this repository.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
