@@ -7,5 +7,6 @@ class Solution:
                     if i >= num:
                         dp[i] += dp[i - num]
             return dp[target]
-
+# Time O(target *n)
+# Space O(target )
             
