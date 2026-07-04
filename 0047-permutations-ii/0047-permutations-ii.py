@@ -2,6 +2,7 @@ class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         ans, sol = [], []
         n = len(nums)
+
         visited = set()
         def backtrack():
             if len(sol) == n and sol[:] not in ans:
@@ -14,5 +15,7 @@ class Solution:
                     backtrack()
                     sol.pop()
                     visited.remove(i)
+
         backtrack()
+
         return ans
