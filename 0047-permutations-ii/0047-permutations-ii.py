@@ -26,5 +26,5 @@ class Solution:
         return ans
 
 
-# Time O(n*n*n!)
+# Time O(n*n!)
 # Space O(n)
