@@ -87,6 +87,7 @@ My journey of problem-solving is documented in this repository.
 | [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -160,6 +161,7 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -182,6 +184,7 @@ My journey of problem-solving is documented in this repository.
 | [0039-combination-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
