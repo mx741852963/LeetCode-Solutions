@@ -21,3 +21,5 @@ class Solution:
                     visited.remove(next_num)
         backtrack()
         return sol
+# Time O(2**n)
+# Space O(2**n)
