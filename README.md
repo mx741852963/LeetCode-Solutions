@@ -188,12 +188,14 @@ My journey of problem-solving is documented in this repository.
 | [0077-combinations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +203,7 @@ My journey of problem-solving is documented in this repository.
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
