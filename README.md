@@ -44,6 +44,7 @@ My journey of problem-solving is documented in this repository.
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -191,6 +192,7 @@ My journey of problem-solving is documented in this repository.
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Bit Manipulation
