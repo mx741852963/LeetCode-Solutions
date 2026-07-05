@@ -95,6 +95,7 @@ My journey of problem-solving is documented in this repository.
 | [0074-search-a-2d-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -189,6 +190,7 @@ My journey of problem-solving is documented in this repository.
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Bit Manipulation
@@ -196,6 +198,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Math
 |  |
 | ------- |
