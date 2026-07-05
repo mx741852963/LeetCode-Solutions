@@ -11,6 +11,7 @@ My journey of problem-solving is documented in this repository.
 | [0013-roman-to-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -84,6 +85,7 @@ My journey of problem-solving is documented in this repository.
 | [0033-search-in-rotated-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -183,6 +185,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -267,6 +270,7 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
