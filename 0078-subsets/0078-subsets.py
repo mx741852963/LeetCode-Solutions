@@ -14,5 +14,5 @@ class Solution:
 
         backtrack(0)
         return res
-# Time O(2^n)
-# Space O(n) 
+# Time O(n*2**n)
+# Space O(n*2**n) 
