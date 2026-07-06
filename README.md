@@ -416,6 +416,7 @@ My journey of problem-solving is documented in this repository.
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -430,6 +431,7 @@ My journey of problem-solving is documented in this repository.
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -485,6 +487,7 @@ My journey of problem-solving is documented in this repository.
 | [0451-sort-characters-by-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -521,4 +524,12 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Graph Theory
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
