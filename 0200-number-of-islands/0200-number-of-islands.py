@@ -7,8 +7,8 @@ class Solution:
                 return
             else:
                 grid[i][j] = "0"
-                for pos in [(i, j + 1), (i + 1, j), (i, j - 1), (i - 1, j)]:
-                    dfs(pos[0], pos[1])
+                for di, dj in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
+                    dfs(i + di, j + dj)
 
         for i in range(m):
             for j in range(n):
@@ -16,4 +16,6 @@ class Solution:
                     num_islands += 1
                     dfs(i, j)
         return num_islands
+
+
 # Time and Space O(n*m)
