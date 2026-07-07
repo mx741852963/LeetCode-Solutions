@@ -13,4 +13,5 @@ class Solution:
         return res * sol
 
 
-# Time and Space O(1)
+# Time O(D)
+#  Space O(1)
