@@ -129,6 +129,7 @@ My journey of problem-solving is documented in this repository.
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -339,6 +340,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -540,8 +542,13 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
