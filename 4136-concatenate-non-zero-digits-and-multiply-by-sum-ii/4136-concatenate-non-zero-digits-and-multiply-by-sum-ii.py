@@ -26,8 +26,7 @@ class Solution:
                 ans.append(0)
                 continue
 
-            k = num_nums[R + 1] - num_nums[L]
-            if k == 0:
+            if (k:=num_nums[R + 1] - num_nums[L])== 0:
                 ans.append(0)
                 continue
 
