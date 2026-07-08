@@ -7,14 +7,13 @@ class Solution:
             pow10[i] = (pow10[i - 1] * 10) % mod
         for idx, char in enumerate(s):
             digit = int(char)
-            if digit == 0:
-                prefix[idx + 1][1], prefix[idx + 1][2] = prefix[idx][1], prefix[idx][2]
-            else:
-                prefix[idx + 1][2], prefix[idx + 1][1] = (
-                    prefix[idx][2] + 1,
-                    (prefix[idx][1] * 10 + digit) % mod,
-                )
-            prefix[idx + 1][0] = prefix[idx][0] + digit
+            p_sum, p_num, p_cnt = prefix[idx]
+            is_nz = int(digit != 0)
+            prefix[idx + 1] = [
+                p_sum + digit,
+                (p_num * (10**is_nz) + digit) % mod,
+                p_cnt + is_nz,
+            ]
         for L, R in queries:
             digit_sum = prefix[R + 1][0] - prefix[L][0]
             if digit_sum == 0:
@@ -27,5 +26,7 @@ class Solution:
             ans.append((digit_sum * sol) % mod)
 
         return ans
+
+
 # Time O(n+q)
 # Space O(n)
