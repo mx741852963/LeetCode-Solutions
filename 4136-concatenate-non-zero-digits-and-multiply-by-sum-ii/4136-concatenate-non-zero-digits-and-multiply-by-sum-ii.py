@@ -27,3 +27,5 @@ class Solution:
             ans.append((digit_sum * sol) % mod)
 
         return ans
+# Time O(n+q)
+# Space O(n)
