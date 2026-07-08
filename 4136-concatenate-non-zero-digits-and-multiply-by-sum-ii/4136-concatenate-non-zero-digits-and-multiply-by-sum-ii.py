@@ -7,7 +7,7 @@ class Solution:
             digit = int(char)
             p_sum, p_num, p_cnt = prefix[idx]
             if digit == 0:
-                prefix[idx + 1] = [p_sum, p_num, p_cnt]
+                prefix[idx + 1] = prefix[idx]
             else:
                 prefix[idx + 1] = [
                     p_sum + digit,
