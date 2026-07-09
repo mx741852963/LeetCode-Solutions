@@ -27,3 +27,5 @@ class Solution:
                 new_nei = hash[nei]
                 new.neighbors.append(new_nei)
         return hash[start]
+# Time O(V+E)
+# space O(V)
