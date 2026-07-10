@@ -6,7 +6,7 @@ class Solution:
         def dfs(i, j):
             if i < 0 or i >= m or j < 0 or j >= n or grid[i][j] != 1:
                 return 0
-            grid[i][j] = "0"
+            grid[i][j] = 0
             size = 1
 
             for di, dj in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
