@@ -122,6 +122,7 @@ My journey of problem-solving is documented in this repository.
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0682-baseball-game](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -286,6 +287,7 @@ My journey of problem-solving is documented in this repository.
 | [0079-word-search](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
@@ -345,6 +347,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
@@ -433,6 +436,7 @@ My journey of problem-solving is documented in this repository.
 | [0543-diameter-of-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -451,6 +455,7 @@ My journey of problem-solving is documented in this repository.
 | [0417-pacific-atlantic-water-flow](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
