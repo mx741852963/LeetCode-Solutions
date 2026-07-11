@@ -10,16 +10,31 @@ class Solution:
             graph[v].append(u)
         seen = set()
         seen.add(source)
-        stk = [source]
-        while stk:
-            node = stk.pop()
+        q = deque()
+        q.append(source)
+        while q:
+            node = q.popleft()
             if node == destination:
                 return True
             for nei in graph[node]:
                 if nei not in seen:
                     seen.add(nei)
-                    stk.append(nei)
+                    q.append(nei)
         return False
+
+
+
+        # sol 2
+        # stk = [source]
+        # while stk:
+        #     node = stk.pop()
+        #     if node == destination:
+        #         return True
+        #     for nei in graph[node]:
+        #         if nei not in seen:
+        #             seen.add(nei)
+        #             stk.append(nei)
+        # return False
 
 
         # sol 1
