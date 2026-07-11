@@ -10,8 +10,7 @@ class Solution:
             graph[v].append(u)
         seen = set()
         seen.add(source)
-        q = deque()
-        q.append(source)
+        q = deque([source])
         while q:
             node = q.popleft()
             if node == destination:
@@ -21,7 +20,7 @@ class Solution:
                     seen.add(nei)
                     q.append(nei)
         return False
-
+        # Time and Space O(V+E)
 
 
         # sol 2
