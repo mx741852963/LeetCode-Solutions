@@ -350,6 +350,7 @@ My journey of problem-solving is documented in this repository.
 | [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -442,6 +443,7 @@ My journey of problem-solving is documented in this repository.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2121-find-if-path-exists-in-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 |  |
@@ -463,6 +465,7 @@ My journey of problem-solving is documented in this repository.
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2121-find-if-path-exists-in-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -560,6 +563,7 @@ My journey of problem-solving is documented in this repository.
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
