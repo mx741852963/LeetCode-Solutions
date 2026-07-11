@@ -1,7 +1,5 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
-        if not edges:
-            return n
         graph = defaultdict(list)
         for u, v in edges:
             graph[u].append(v)
