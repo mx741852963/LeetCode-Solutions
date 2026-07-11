@@ -1,14 +1,15 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
-        if  not edges : return n
+        # if not edges:
+        #     return n
         graph = defaultdict(list)
         for u, v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        ans =0
+        ans = 0
         seen = set()
-
-        for i in range(n):
+        i = 0
+        while i != n:
             if i not in seen:
                 component = []
                 stk = [i]
@@ -20,6 +21,7 @@ class Solution:
                         if nei not in seen:
                             seen.add(nei)
                             stk.append(nei)
+
                 v_count = len(component)
                 is_complete = True
                 for node in component:
@@ -28,4 +30,6 @@ class Solution:
                         break
                 if is_complete:
                     ans += 1
+            i += 1
         return ans
+# Time and Sapce O(V+E)
