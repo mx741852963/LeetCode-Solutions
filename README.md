@@ -30,6 +30,7 @@ My journey of problem-solving is documented in this repository.
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1256-rank-transform-of-an-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -131,6 +132,7 @@ My journey of problem-solving is documented in this repository.
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1256-rank-transform-of-an-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -184,6 +186,7 @@ My journey of problem-solving is documented in this repository.
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1256-rank-transform-of-an-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
