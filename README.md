@@ -133,6 +133,7 @@ My journey of problem-solving is documented in this repository.
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -292,11 +293,13 @@ My journey of problem-solving is documented in this repository.
 | [0417-pacific-atlantic-water-flow](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1386-shift-2d-grid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [1386-shift-2d-grid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
