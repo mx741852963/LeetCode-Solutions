@@ -5,5 +5,5 @@ class Solution:
             return 1
         if n == 2:
             return 2
-        if n >= 3:
-            return 1 << n.bit_length()
+        return 1 << n.bit_length()
+# Time and Space O(1)
