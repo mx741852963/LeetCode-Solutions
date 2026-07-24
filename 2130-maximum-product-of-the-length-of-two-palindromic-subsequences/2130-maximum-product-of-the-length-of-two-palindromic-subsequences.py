@@ -15,7 +15,7 @@ class Solution:
                 if s1 == s1[::-1] and s2 == s2[::-1]:
                     maxx[0] = max(maxx[0], len1 * len2)
                 return
-            if len1 < len2 :
+            if len1 > len2:
                 s1.append(s[i])
                 backtrack(i + 1, s1, s2)
                 s1.pop()
@@ -23,8 +23,7 @@ class Solution:
                     s2.append(s[i])
                     backtrack(i + 1, s1, s2)
                     s2.pop()
-                backtrack(i + 1, s1, s2)
-            if len1 >= len2 :
+            else:
                 if len1 > 0:
                     s2.append(s[i])
                     backtrack(i + 1, s1, s2)
@@ -32,8 +31,7 @@ class Solution:
                 s1.append(s[i])
                 backtrack(i + 1, s1, s2)
                 s1.pop()
-                
-                backtrack(i + 1, s1, s2)
+            backtrack(i + 1, s1, s2)
 
         backtrack(0, [], [])
         return maxx[0]
