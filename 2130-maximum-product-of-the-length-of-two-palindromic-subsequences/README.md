@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences">2130. Maximum Product of the Length of Two Palindromic Subsequences</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, find two <strong>disjoint palindromic subsequences</strong> of <code>s</code> such that the <strong>product</strong> of their lengths is <strong>maximized</strong>. The two subsequences are <strong>disjoint</strong> if they do not both pick a character at the same index.</p>
+<h2><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/">2130. Maximum Product of the Length of Two Palindromic Subsequences</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, find two <strong>disjoint palindromic subsequences</strong> of <code>s</code> such that the <strong>product</strong> of their lengths is <strong>maximized</strong>. The two subsequences are <strong>disjoint</strong> if they do not both pick a character at the same index.</p>
 
 <p>Return <em>the <strong>maximum</strong> possible <strong>product</strong> of the lengths of the two palindromic subsequences</em>.</p>
 
