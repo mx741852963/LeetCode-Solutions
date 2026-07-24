@@ -151,6 +151,7 @@ My journey of problem-solving is documented in this repository.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
@@ -216,6 +217,7 @@ My journey of problem-solving is documented in this repository.
 | [0078-subsets](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -237,6 +239,7 @@ My journey of problem-solving is documented in this repository.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -499,6 +502,7 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
