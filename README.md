@@ -60,6 +60,7 @@ My journey of problem-solving is documented in this repository.
 | [0692-top-k-frequent-words](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1250-longest-common-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -254,6 +255,7 @@ My journey of problem-solving is documented in this repository.
 | [0377-combination-sum-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1250-longest-common-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
