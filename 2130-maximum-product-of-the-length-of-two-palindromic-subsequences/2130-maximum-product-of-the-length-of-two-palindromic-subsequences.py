@@ -2,8 +2,11 @@ class Solution:
     def maxProduct(self, s: str) -> int:
         maxx = [0]
         n = len(s)
+        max_possible = (n // 2) * ((n + 1) // 2)
 
         def backtrack(i, s1, s2):
+            if maxx[0] == max_possible:
+                return
             len1, len2 = len(s1), len(s2)
             rem = n - i
             if (len1 + rem) * (len2 + rem) <= maxx[0]:
