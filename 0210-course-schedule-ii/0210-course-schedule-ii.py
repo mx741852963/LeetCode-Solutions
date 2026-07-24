@@ -2,7 +2,7 @@ class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
         for u, v in prerequisites:
-            graph[v].append(u)
+            graph[u].append(v)
         # unvisted = 0
         # visiting = 1
         # visited = 2
@@ -25,6 +25,6 @@ class Solution:
         for i in range(numCourses):
             if not dfs(i):
                 return []
-        return ans[::-1]
+        return ans
 # Time O(V+E)
 # Space O(V+E)
