@@ -5,12 +5,6 @@ class Solution:
         m ,n  = len(text1),len(text2)
         if text1 == text2:
             return len(text1)
-        texts = set(text1) & set(text2)
-        if len(texts) == 0:
-            return 0
-        if m < n:
-            text1, text2 = text2, text1
-            m, n = n, m
         dp = [0]*(n+1)
         for i in range(1,m+1):
             prev = 0
