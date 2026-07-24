@@ -442,6 +442,7 @@ My journey of problem-solving is documented in this repository.
 | [0112-path-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -467,6 +468,7 @@ My journey of problem-solving is documented in this repository.
 | [0112-path-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -573,6 +575,7 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -585,4 +588,8 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
