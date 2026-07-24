@@ -1,12 +1,13 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
+        # Bottom up Dp (tabulation)
         text1 = s
         text2 = s[::-1]
-        m ,n  = len(text1),len(text2)
+        n  = len(text1)
         if text1 == text2:
             return len(text1)
         dp = [0]*(n+1)
-        for i in range(1,m+1):
+        for i in range(1,n+1):
             prev = 0
             for j in range(1,n+1):
                 temp = dp[j]
@@ -16,3 +17,5 @@ class Solution:
                     dp[j] = max( dp[j-1], dp[j])
                 prev = temp
         return dp[-1]
+# Time O(n^2)
+# Space O(n)
