@@ -124,6 +124,7 @@ My journey of problem-solving is documented in this repository.
 | [0347-top-k-frequent-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0682-baseball-game](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -240,6 +241,7 @@ My journey of problem-solving is documented in this repository.
 | [0150-evaluate-reverse-polish-notation](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -265,6 +267,7 @@ My journey of problem-solving is documented in this repository.
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0377-combination-sum-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -279,6 +282,7 @@ My journey of problem-solving is documented in this repository.
 | [0002-add-two-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 |  |
@@ -616,4 +620,8 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
