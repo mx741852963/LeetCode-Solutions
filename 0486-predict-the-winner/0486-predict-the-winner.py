@@ -9,3 +9,4 @@ class Solution:
             return max(take_left, take_right)
 
         return dfs(0, len(nums) - 1) >= 0
+# Time and Space O(n**2)
