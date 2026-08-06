@@ -249,6 +249,7 @@ My journey of problem-solving is documented in this repository.
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -525,6 +526,7 @@ My journey of problem-solving is documented in this repository.
 ## Enumeration
 |  |
 | ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Binary Search Tree
