@@ -9,3 +9,4 @@ class Solution:
                 if n <= m and m % t == 0:
                     return m
             m += 1
+# Time and Spcae O(1)
