@@ -71,6 +71,7 @@ My journey of problem-solving is documented in this repository.
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3838-weighted-word-mapping](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -221,6 +222,7 @@ My journey of problem-solving is documented in this repository.
 | [0216-combination-sum-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,6 +252,7 @@ My journey of problem-solving is documented in this repository.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -399,6 +402,7 @@ My journey of problem-solving is documented in this repository.
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Design
@@ -430,6 +434,7 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
