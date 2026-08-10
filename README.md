@@ -248,6 +248,7 @@ My journey of problem-solving is documented in this repository.
 | [0509-fibonacci-number](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1240-stone-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -279,6 +280,7 @@ My journey of problem-solving is documented in this repository.
 | [0647-palindromic-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1240-stone-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -636,12 +638,23 @@ My journey of problem-solving is documented in this repository.
 | ------- |
 | [0486-predict-the-winner](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
