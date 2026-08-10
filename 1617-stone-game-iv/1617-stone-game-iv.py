@@ -4,11 +4,10 @@ class Solution:
         def backtrack(i):
             if i == 0:
                 return False
-            k = 1
-            while k * k <= i:
-                if not backtrack(i - k * k):
+            if i == 1:
+                return True
+            for j in range(floor(sqrt(i)), 0, -1):
+                if not backtrack(i - j**2):
                     return True
-                k += 1
             return False
-
         return backtrack(n)
