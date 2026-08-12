@@ -36,6 +36,7 @@ My journey of problem-solving is documented in this repository.
 | [2404-most-frequent-even-element](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -85,6 +86,7 @@ My journey of problem-solving is documented in this repository.
 | [0643-maximum-average-subarray-i](https://github.com/mx741852963/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mx741852963/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +158,7 @@ My journey of problem-solving is documented in this repository.
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/mx741852963/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -656,15 +659,15 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
