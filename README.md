@@ -167,6 +167,7 @@ My journey of problem-solving is documented in this repository.
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/mx741852963/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ My journey of problem-solving is documented in this repository.
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -659,15 +661,15 @@ My journey of problem-solving is documented in this repository.
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
