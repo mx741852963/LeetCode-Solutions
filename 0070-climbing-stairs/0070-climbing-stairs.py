@@ -1,10 +1,12 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
+        # Top Down with  memo
+        # Time and Space O(n) 
         @cache
-        def backtrack(i):
+        def dfs(i):
             if i == n:
                 return 1
             if i > n:
                 return 0
-            return backtrack(i + 1) + backtrack(i + 2)
-        return backtrack(0)
+            return dfs(i + 1) + dfs(i + 2)
+        return dfs(0)
