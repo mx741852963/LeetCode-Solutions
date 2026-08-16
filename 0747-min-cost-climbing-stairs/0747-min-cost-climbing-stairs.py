@@ -11,7 +11,7 @@ class Solution:
         #     return min(cost[i-2]+min_cost(i-2),cost[i-1]+min_cost(i-1))
         # return min_cost(n)
 
-        # Botton up  DP (Tablulation)
+        # Botton up  DP (Tabulation)
         # Time O(n)
         # Space O(n)
         n  = len(cost)
