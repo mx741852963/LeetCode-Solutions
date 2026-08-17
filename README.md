@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -62,5 +63,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
