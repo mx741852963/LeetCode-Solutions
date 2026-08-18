@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
