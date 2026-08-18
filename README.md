@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0747-min-cost-climbing-stairs](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 ## Longest Increasing Subsequence
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
