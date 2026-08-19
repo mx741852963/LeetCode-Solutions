@@ -14,6 +14,7 @@
 | [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0747-min-cost-climbing-stairs](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Math
 |  |
@@ -78,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
