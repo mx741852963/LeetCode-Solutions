@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
