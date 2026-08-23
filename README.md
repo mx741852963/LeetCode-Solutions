@@ -33,11 +33,13 @@
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
+| [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
@@ -51,6 +53,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
