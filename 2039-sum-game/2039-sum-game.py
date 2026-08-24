@@ -11,5 +11,5 @@ class Solution:
             return  numbers,qustion_mark 
         l_n ,l_q = get(num[n//2:])
         r_n ,r_q = get(num[:n//2])
-        return (l_q+r_q)& 1!= 0 or l_n - r_n != (r_q-l_q)*9 //2
+        return (l_q+r_q)& 1!= 0 or (r_n+r_q*4.5) !=(l_n+l_q*4.5)
 # Time and Space O(n)
