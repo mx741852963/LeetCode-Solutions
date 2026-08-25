@@ -19,6 +19,7 @@
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
