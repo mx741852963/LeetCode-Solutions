@@ -25,4 +25,5 @@ class Solution:
                         return res
                     sol.pop()
                     visited.remove(i)
-        return backtrack() if  backtrack() else ""
+        res = backtrack()
+        return res if res else ""
