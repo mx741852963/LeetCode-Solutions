@@ -1,29 +1,28 @@
 class Solution:
     def lexGreaterPermutation(self, s: str, target: str) -> str:
-        sol, n = [], len(s)
-        s = sorted(s)
-        visited = set()
-
-        def backtrack():
-            if len(sol) == n:
-                ss = "".join(sol[:])
-                return ss if ss > target else ""
-            curr_len = len(sol)
-            for i in range(n):
-                if i not in visited:
-                    char = s[i]
-                    if i > 0 and s[i] == s[i - 1] and (i - 1) not in visited:
-                        continue
-                    temp_prefix = "".join(sol) + char
-                    if temp_prefix < target[: curr_len + 1]:
-                        continue
-
-                    visited.add(i)
-                    sol.append(char)
-                    res = backtrack()
-                    if res:
-                        return res
-                    sol.pop()
-                    visited.remove(i)
-        res = backtrack()
-        return res if res else ""
+        n = len(s)
+        counts = Counter(s)
+        prefix = []
+        for i in range(n):
+            char = target[i]
+            if counts[char] > 0:
+                prefix.append(char)
+                counts[char] -= 1
+            else:
+                break
+        for i in range(len(prefix), -1, -1):
+            if i < len(prefix):
+                counts[prefix[i]] += 1
+                prefix.pop()
+            if i >= n:
+                continue
+            target_char = target[i]
+            for char in sorted(counts.keys()):
+                if char > target_char and counts[char] > 0:
+                    prefix.append(char)
+                    counts[char] -= 1
+                    for c in sorted(counts.keys()):
+                        prefix.extend([c] * counts[c])
+                    return "".join(prefix)
+                    
+        return ""
