@@ -24,6 +24,7 @@ class Solution:
                     counts[char] -= 1
                     for c in ss:
                         prefix.extend([c] * counts[c])
-                    return "".join(prefix)
-                    
+                    return "".join(prefix)        
         return ""
+
+# Time and Space O(n)
