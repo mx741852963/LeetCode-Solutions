@@ -17,11 +17,12 @@ class Solution:
             if i >= n:
                 continue
             target_char = target[i]
-            for char in sorted(counts.keys()):
+            ss = sorted(counts.keys())
+            for char in ss :
                 if char > target_char and counts[char] > 0:
                     prefix.append(char)
                     counts[char] -= 1
-                    for c in sorted(counts.keys()):
+                    for c in ss:
                         prefix.extend([c] * counts[c])
                     return "".join(prefix)
                     
