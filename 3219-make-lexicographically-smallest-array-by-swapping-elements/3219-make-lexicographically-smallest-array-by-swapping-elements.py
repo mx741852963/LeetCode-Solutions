@@ -11,7 +11,7 @@ class Solution:
             if nums_sorted[i] - nums_sorted[i - 1] > limit:
                 cur_group += 1
             group_of_nums[nums_sorted[i]] = cur_group
-            if cur_group not in list_of_group:
+            if cur_group not in  list_of_group:
                 list_of_group[cur_group] = deque()
             list_of_group[cur_group].append(nums_sorted[i])
         for i in range(n):
@@ -19,3 +19,4 @@ class Solution:
             group = group_of_nums[num]
             nums[i] = list_of_group[group].popleft()
         return nums
+# Time O( n log n) Space O(n)
