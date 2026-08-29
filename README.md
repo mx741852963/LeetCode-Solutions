@@ -19,6 +19,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
