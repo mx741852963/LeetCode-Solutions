@@ -29,16 +29,21 @@ class Solution:
         #     min([((cp[x + 1]) - cp[x]) for x in range(len(cp) - 1)]),
         #     cp[-1] - cp[0],
         # ] 
+# Time O(n) 
+# space O(n)
         min_dist, first, last = float('inf'), -1, -1
         prev, cur, nxt = head, head.next, head.next.next
-        i = 0
+        i = 1
         while nxt:
             if prev.val > cur.val< nxt.val or prev.val < cur.val> nxt.val:
                 if first == -1:
                     first = i
-                if first != -1 and last != -1:
+                else :
                     min_dist = min(min_dist, i-last)
                 last = i
             i += 1
             prev, cur, nxt = cur, nxt, nxt.next
-        return [min_dist, last-first] if last != first else [-1,-1]
+        if first==last: return [-1,-1]
+        return [min_dist, last-first]
+# Time O(n) 
+# space O(1)
