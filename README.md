@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -141,12 +143,18 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
