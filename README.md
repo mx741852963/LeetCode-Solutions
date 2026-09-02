@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 ## Sliding Window
 |  |
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
