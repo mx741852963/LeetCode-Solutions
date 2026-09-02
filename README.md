@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
@@ -183,5 +185,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
