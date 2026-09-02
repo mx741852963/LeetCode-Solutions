@@ -1,13 +1,13 @@
 class Solution:
     def convertToBase7(self, num: int) -> str:
-        if num == 0 : return '0'
-        org_num = num
+        if num == 0:
+            return "0"
+        sign = "-" if num < 0 else ""
         num = abs(num)
-        res = []
+        res = ""
         while num:
-            rem = num % 7
-            res.append(str(rem))
-            num = num //7
-        if org_num < 0 :
-            res.append('-')
-        return ''.join(res[::-1])
+            res = str(num % 7) + res
+            num = num // 7
+
+        return sign + res
+    # Time and Space O(n)
