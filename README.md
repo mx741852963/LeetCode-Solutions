@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
