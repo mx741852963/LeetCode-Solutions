@@ -15,6 +15,7 @@
 | [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0136-single-number) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 ## Sliding Window
 |  |
