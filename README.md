@@ -39,6 +39,7 @@
 | [0198-house-robber](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0747-min-cost-climbing-stairs](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
+| [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
