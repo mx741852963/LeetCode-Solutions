@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-unique-good-subsequences">2115. Number of Unique Good Subsequences</a></h2><h3>Hard</h3><hr><p>You are given a binary string <code>binary</code>. A <strong>subsequence</strong> of <code>binary</code> is considered <strong>good</strong> if it is <strong>not empty</strong> and has <strong>no leading zeros</strong> (with the exception of <code>&quot;0&quot;</code>).</p>
+<h2><a href="https://leetcode.com/problems/number-of-unique-good-subsequences/">2115. Number of Unique Good Subsequences</a></h2><h3>Hard</h3><hr><p>You are given a binary string <code>binary</code>. A <strong>subsequence</strong> of <code>binary</code> is considered <strong>good</strong> if it is <strong>not empty</strong> and has <strong>no leading zeros</strong> (with the exception of <code>&quot;0&quot;</code>).</p>
 
 <p>Find the number of <strong>unique good subsequences</strong> of <code>binary</code>.</p>
 

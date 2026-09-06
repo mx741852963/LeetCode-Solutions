@@ -9,8 +9,10 @@ class Solution:
                 end_1 = (end_1 + end_0 + 1)%mod
             else :
                 end_0 =(end_1 + end_0 )%mod
-                has_0=1
-        return (end_0 + end_1 + has_0)% mod
+        add = 0
+        if end_0 or binary[0] == '0':
+            add = 1
+        return (end_0 + end_1 + add)% mod
         # Time O(n)
         # Space O(1)
         # ans, sol, n = [], [], len(binary)
