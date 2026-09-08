@@ -62,6 +62,7 @@
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Minimax
