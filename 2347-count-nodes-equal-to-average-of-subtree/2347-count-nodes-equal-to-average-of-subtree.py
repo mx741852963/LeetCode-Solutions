@@ -6,18 +6,18 @@
 #         self.right = right
 class Solution:
     def averageOfSubtree(self, root: TreeNode) -> int:
-        self.count = 0
-
         def get_size(node):
             if not node:
-                return (0, 0)
-            ls, lc = get_size(node.left)
-            rs, rc = get_size(node.right)
+                return (0, 0, 0)
+            ls, lc, lv = get_size(node.left)
+            rs, rc, rv = get_size(node.right)
             cur_sum = ls + rs + node.val
             cur_count = lc + rc + 1
-            if node.val == cur_sum // cur_count:
-                self.count += 1
-            return (cur_sum, cur_count)
+            is_valid = 1 if (cur_sum // cur_count) == node.val else 0
+            return (cur_sum, cur_count, lv + rv + is_valid)
 
-        get_size(root)
-        return self.count
+        return get_size(root)[2]
+
+
+# Time O(n)
+# Space O(h)
