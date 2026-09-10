@@ -194,4 +194,16 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
