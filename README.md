@@ -26,6 +26,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -120,6 +121,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
@@ -152,6 +154,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
