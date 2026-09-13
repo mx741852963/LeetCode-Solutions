@@ -10,11 +10,5 @@ class Solution:
                     one1.append((r, c))
                 if img2[r][c] == 1:
                     one2.append((r, c))
-        over_lap = 0
-        shift_count = defaultdict(int)
-        for r1, c1 in one1:
-            for r2, c2 in one2:
-                shift = (r2 - r1, c2 - c1)
-                shift_count[shift] += 1
-                over_lap = max(over_lap, shift_count[shift])
-        return over_lap
+        count = Counter((r-r0,c-c0)for r0,c0 in one1 for r,c in one2)
+        return max(count.values()) if count else 0
