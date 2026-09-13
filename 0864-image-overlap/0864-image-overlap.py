@@ -5,3 +5,4 @@ class Solution:
         one2 = [(r, c) for r in range(m) for c in range(n) if img2[r][c] == 1]
         count = Counter((r - r0, c - c0) for r0, c0 in one1 for r, c in one2)
         return max(count.values()) if count else 0
+# Time O(n**4) Space O(n**2)
