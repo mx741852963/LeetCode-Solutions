@@ -61,6 +61,7 @@
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
+| [0866-rectangle-overlap](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
