@@ -43,6 +43,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
@@ -118,6 +120,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
