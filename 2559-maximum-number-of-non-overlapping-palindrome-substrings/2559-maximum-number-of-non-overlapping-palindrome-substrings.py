@@ -20,3 +20,5 @@ class Solution:
             if not expand(i, i):
                 expand(i, i + 1)
         return self.count
+# Time O(n) 
+# Space O(1)
