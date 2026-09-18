@@ -18,7 +18,6 @@ class Solution:
                 i += 1
             if is_valid:
                 ans.append([l, r])
-        print(hash,ans)
         ans.sort(key=lambda x: x[-1])
         result = []
         last_r = -1
