@@ -23,6 +23,7 @@ class Solution:
         #     closest_y = y2
         # else:
         #     closest_y = yCenter
+        # clamping 
         closest_x = max(x1, min(xCenter, x2))
         closest_y = max(y1, min(yCenter, y2))
         dx = xCenter - closest_x
