@@ -68,6 +68,7 @@
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0866-rectangle-overlap](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
