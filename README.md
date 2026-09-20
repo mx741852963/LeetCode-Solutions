@@ -152,6 +152,7 @@
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
@@ -216,6 +217,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
