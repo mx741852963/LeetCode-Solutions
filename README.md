@@ -29,6 +29,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -47,6 +48,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3831-find-x-value-of-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
+| [3831-find-x-value-of-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
