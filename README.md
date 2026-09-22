@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
