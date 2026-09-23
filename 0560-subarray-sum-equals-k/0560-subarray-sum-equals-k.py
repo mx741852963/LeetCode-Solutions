@@ -1,13 +1,15 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        # mp = list(accumulate(nums))
         count = 0
-        mp = {0: 1}
-        prefix = 0
-        for num in nums:
-            prefix += num
-            if prefix - k in mp:
-                count += mp[prefix - k]
-            mp[prefix] = mp.get(prefix, 0) + 1
+        prefix_counts = defaultdict(int)
+        prefix_counts[0] = 1
+        for prefix in accumulate(nums):
+            if prefix - k in prefix_counts:
+                count += prefix_counts[prefix - k]
+            prefix_counts[prefix] += 1
+
         return count
+
+
+# Time: O(N)
+# Space: O(N)
