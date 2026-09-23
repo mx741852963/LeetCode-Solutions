@@ -1,7 +1,7 @@
 class Solution:
     def minOperations(self, nums: list[int], x: int) -> int:
         target = sum(nums) - x
-        if min(nums) > x:
+        if target < 0:
             return -1
         if target == 0:
             return len(nums)
@@ -17,5 +17,7 @@ class Solution:
             if cur_sum == target:
                 max_len = max(max_len, r - l + 1)
         return n - max_len if max_len != -1 else -1
+
+
 # Time O(n)
 # Space O(1)
