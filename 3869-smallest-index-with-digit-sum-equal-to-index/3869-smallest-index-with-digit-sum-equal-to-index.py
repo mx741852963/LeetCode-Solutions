@@ -10,3 +10,5 @@ class Solution:
             if ans == i:
                 return ans
         return -1
+# Time O(n)
+# Space O(1)
