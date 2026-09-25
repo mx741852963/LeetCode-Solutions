@@ -121,6 +121,7 @@
 | [0088-merge-sorted-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Longest Increasing Subsequence
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -158,6 +160,7 @@
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
@@ -200,6 +203,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
@@ -261,4 +265,12 @@
 | [0560-subarray-sum-equals-k](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
