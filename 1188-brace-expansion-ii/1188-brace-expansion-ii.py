@@ -1,9 +1,6 @@
 class Solution:
     def braceExpansionII(self, expression: str) -> list[str]:
-        stack = []
-        groups = []
-        cur = {""}
-
+        stack,groups,cur= [],[],{""}
         for char in expression:
             match char:
                 case "{":
@@ -15,9 +12,9 @@ class Solution:
                 case "}":
                     word_set = set().union(*groups, cur)
                     prev_groups, prev_cur = stack.pop()
-                    cur = {a + b for a in prev_cur for b in word_set}
-                    groups = prev_groups
+                    cur,groups = {a + b for a in prev_cur for b in word_set},prev_groups
                 case _:
                     cur = {a + char for a in cur}
-        res = set().union(*groups, cur)
-        return sorted(list(res))
+        return sorted(list( set().union(*groups, cur)))
+# Time O(n*k)
+# Space O(k)
