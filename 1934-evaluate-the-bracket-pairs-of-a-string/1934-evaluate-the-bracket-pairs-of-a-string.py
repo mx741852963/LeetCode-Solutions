@@ -5,10 +5,12 @@ class Solution:
         while i < n:
             if s[i] == "(":
                 i += 1
-                start = i
+                key = ""
                 while s[i] != ")":
+                    key += s[i]
                     i += 1
-                res.append(hash.get(s[start:i], "?"))
+                print(key)
+                res.append(hash.get(key, "?"))
             else:
                 res.append(s[i])
             i += 1
