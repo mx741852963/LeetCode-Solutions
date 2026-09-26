@@ -5,16 +5,12 @@ class Solution:
         while i < n:
             if s[i] == "(":
                 i += 1
-                key = ""
+                start = i
                 while s[i] != ")":
-                    key += s[i]
                     i += 1
-                print(key)
-                res.append(hash.get(key, "?"))
+                res.append(hash.get(s[start:i], "?"))
             else:
                 res.append(s[i])
             i += 1
         return "".join(res)
-
-
 # Time and Space O(N+M)
