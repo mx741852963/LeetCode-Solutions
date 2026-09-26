@@ -26,6 +26,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -148,6 +149,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -162,6 +164,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
