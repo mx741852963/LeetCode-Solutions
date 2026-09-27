@@ -11,5 +11,8 @@ class Solution:
                 case _:
                     cur.append(char)
 
-
         return "".join(cur)
+
+
+# Time O(N**2)
+# Space O(N)
