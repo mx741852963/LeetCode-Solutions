@@ -163,6 +163,7 @@
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
@@ -207,6 +208,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
