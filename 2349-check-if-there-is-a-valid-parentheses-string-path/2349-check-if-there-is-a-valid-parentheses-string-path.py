@@ -9,13 +9,18 @@ class Solution:
         @cache
         def dfs(r, c, bal):
             bal += 1 if grid[r][c] == "(" else -1
-            if bal < 0:
+
+            if bal > (m - 1 - r) + (n - 1 - c) or bal < 0:
                 return False
             if r == m - 1 and c == n - 1:
                 return bal == 0
-            down = dfs(r + 1, c, bal) if r + 1 < m else False
-            right = dfs(r, c + 1, bal) if c + 1 < n else False
 
-            return down or right
+            res = False
+            if r + 1 < m:
+                res = res or dfs(r + 1, c, bal)
+            if not res and c + 1 < n:
+                res = res or dfs(r, c + 1, bal)
+
+            return res
 
         return dfs(0, 0, 0)
