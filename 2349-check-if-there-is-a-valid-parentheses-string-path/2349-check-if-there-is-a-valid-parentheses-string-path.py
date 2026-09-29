@@ -24,3 +24,6 @@ class Solution:
             return res
 
         return dfs(0, 0, 0)
+
+
+# Time and Space O(m * n * (m + n))
