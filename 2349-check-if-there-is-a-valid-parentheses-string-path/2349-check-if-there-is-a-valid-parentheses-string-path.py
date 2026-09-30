@@ -17,7 +17,10 @@ class Solution:
 
             res = False
             if r + 1 < m:
+                if res :
+                    return 
                 res = res or dfs(r + 1, c, bal)
+                
             if not res and c + 1 < n:
                 res = res or dfs(r, c + 1, bal)
 
