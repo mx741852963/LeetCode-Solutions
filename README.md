@@ -67,6 +67,7 @@
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -178,6 +179,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2115-number-of-unique-good-subsequences](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2115-number-of-unique-good-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
@@ -225,6 +227,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -305,5 +308,6 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
