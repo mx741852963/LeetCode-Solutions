@@ -14,6 +14,6 @@ class Solution:
                 bal[1] += 1
             else:
                 bal[1] -= 1
-            if bal[0] <0 or  bal[1] < 0:
+            if bal[0] < 0 or bal[1] < 0:
                 return False
         return True
