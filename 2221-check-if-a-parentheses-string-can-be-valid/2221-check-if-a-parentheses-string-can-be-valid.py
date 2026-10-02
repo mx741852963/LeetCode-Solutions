@@ -1,19 +1,22 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
         n = len(s)
-        bal = [0, 0]
+        bal_r = 0
+        bal_l = 0
         if n & 1:
             return False
         for i in range(n):
             j = n - i - 1
             if locked[i] == "0" or s[i] == "(":
-                bal[0] += 1
+                bal_r += 1
             else:
-                bal[0] -= 1
+                bal_r -= 1
             if locked[j] == "0" or s[j] == ")":
-                bal[1] += 1
+                bal_l += 1
             else:
-                bal[1] -= 1
-            if bal[0] < 0 or bal[1] < 0:
+                bal_l -= 1
+            if bal_l < 0 or bal_r < 0:
                 return False
         return True
+# Time O(n)
+# Space O(1)
