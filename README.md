@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -165,6 +166,7 @@
 | [0006-zigzag-conversion](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -305,6 +308,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
