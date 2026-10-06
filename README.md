@@ -65,6 +65,7 @@
 | [0055-jump-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2039-sum-game) |
@@ -175,6 +176,7 @@
 | [0394-decode-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -229,6 +231,7 @@
 | [0224-basic-calculator](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -314,6 +317,7 @@
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
