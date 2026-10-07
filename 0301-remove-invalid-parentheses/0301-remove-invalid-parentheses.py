@@ -26,3 +26,7 @@ class Solution:
 
         backtrack(0, "", 0)
         return ans if ans else [""]
+
+
+# Time O(2**n)
+# Space O(n)
