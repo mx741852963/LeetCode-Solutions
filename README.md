@@ -173,6 +173,7 @@
 | [0043-multiply-strings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0504-base-7](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -305,10 +306,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mx741852963/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
