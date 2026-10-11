@@ -30,6 +30,7 @@
 | [2156-stone-game-ix](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -215,6 +216,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
