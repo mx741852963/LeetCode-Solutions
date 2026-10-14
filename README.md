@@ -76,6 +76,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mx741852963/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mx741852963/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/mx741852963/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
